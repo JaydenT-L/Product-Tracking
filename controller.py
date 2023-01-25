@@ -6,9 +6,8 @@ from collections import defaultdict
 
 
 
-TOKEN = 'NjYxMzUxMjc3MDk1Mjg4ODQ1.XgqJXw.a344R2t7j6mCMLVaDvwanY4Pmd4'
-#test TOKEN = 'NjYxMzUxMjc3MDk1Mjg4ODQ1.XqoJ9Q.8S-stUn4sjj81f5Ay7zqxcB2Qzg'
-#haru token: 'NjYyNzQyNTIyNzc4NDg0NzQ3.Xq4H_w.xEUQlM2MyckCEltvSR_c7UHHi1I'
+TOKEN = 'Discord bot token'
+
 #discord bot token
 client = discord.Client()
 digit_keyword_store = ['walmart', 'bestbuy', 'target', 'gamestop']
