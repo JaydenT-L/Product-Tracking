@@ -1,0 +1,1637 @@
+{
+    "id": "f0b3fa2a-1339-4f19-8df9-276bd11281f6",
+    "lastFetchTime": "2020-05-06T20:28:21.261Z",
+    "publishedContent": {
+        "nodes": [
+            {
+                "analytics": {
+                    "hashKey": "59270619846ca21c233f26a016faf06858829ef94c4e152ff2b89c38e0f9f283"
+                },
+                "nodes": [
+                    {
+                        "analytics": {
+                            "hashKey": "6ba2635fbbbeb510bd9c49b87547105e2642c59c3323dd12d95e634c24e12c99"
+                        },
+                        "subType": "image",
+                        "id": "937e382d-5e7e-478e-915a-7dfa43ecb948",
+                        "type": "card",
+                        "version": "1588707305906",
+                        "properties": {
+                            "portraitId": "b249133c-5425-4b43-a770-61ebad835034",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/b249133c-5425-4b43-a770-61ebad835034/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "b249133c-5425-4b43-a770-61ebad835034",
+                            "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/b249133c-5425-4b43-a770-61ebad835034/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/b249133c-5425-4b43-a770-61ebad835034/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "b249133c-5425-4b43-a770-61ebad835034",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/b249133c-5425-4b43-a770-61ebad835034/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "b249133c-5425-4b43-a770-61ebad835034",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/b249133c-5425-4b43-a770-61ebad835034/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "b249133c-5425-4b43-a770-61ebad835034",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-05T19:35:03.901Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "b249133c-5425-4b43-a770-61ebad835034",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/b249133c-5425-4b43-a770-61ebad835034/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "f2ab66cd27e680ba544c36956f9d12ed7954c593e6de5807d60ac7dac1ef7f3c"
+                        },
+                        "subType": "image",
+                        "id": "01ced861-bd7c-410e-9be0-642b2a9e81c8",
+                        "type": "card",
+                        "version": "1588707304043",
+                        "properties": {
+                            "portraitId": "i1-741af6f3-5e0e-48e9-9871-95131156115d",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-741af6f3-5e0e-48e9-9871-95131156115d/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "i1-741af6f3-5e0e-48e9-9871-95131156115d",
+                            "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-741af6f3-5e0e-48e9-9871-95131156115d/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-741af6f3-5e0e-48e9-9871-95131156115d/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "i1-741af6f3-5e0e-48e9-9871-95131156115d",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-741af6f3-5e0e-48e9-9871-95131156115d/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "i1-741af6f3-5e0e-48e9-9871-95131156115d",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-741af6f3-5e0e-48e9-9871-95131156115d/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "i1-741af6f3-5e0e-48e9-9871-95131156115d",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-05T19:35:04.013Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "i1-741af6f3-5e0e-48e9-9871-95131156115d",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-741af6f3-5e0e-48e9-9871-95131156115d/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "8e74a0dc0a0e9c989c82d9921572cd4e595d74485fd90264f010d78e33c37690"
+                        },
+                        "subType": "image",
+                        "id": "948dea0d-1530-4819-9a8c-f9368c0e6d7c",
+                        "type": "card",
+                        "version": "1588707304164",
+                        "properties": {
+                            "portraitId": "i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e",
+                            "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-05T19:35:04.133Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-9c831af5-2c6d-4c46-8d91-e386d0449a8e/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "2f1a550e7d03c35823c2c77dccb30ab723e426ce06d9e0aea4ce92bc7a4a1946"
+                        },
+                        "subType": "image",
+                        "id": "c5120d52-61d5-470b-aee1-a5907c4e958c",
+                        "type": "card",
+                        "version": "1588707304241",
+                        "properties": {
+                            "portraitId": "i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_sc/w_960,c_limit/i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd",
+                            "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_pc/w_1536,c_limit/i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_lc/w_1920,c_limit/i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_pc/w_1536,c_limit/i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_sc/w_960,c_limit/i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-05T19:35:04.219Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_lc/w_1920,c_limit/i1-cb007aa7-1518-4ab4-8b49-c9530c522bdd/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "0c175700a36bec7646b2a8a2d99a5e3aec77c8f2fd9a66a20f06f009bcda7131"
+                        },
+                        "subType": "image",
+                        "id": "236fa4cf-08f8-4404-a2e5-83daa1ba295a",
+                        "type": "card",
+                        "version": "1588707304367",
+                        "properties": {
+                            "portraitId": "i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941",
+                            "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-05T19:35:04.357Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-4c16d99e-2d7b-4d07-bd7b-b76e547d7941/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "9e45aca8ef1a2f6810c576cf673b719832f233b50debf5e4ac9b66c998bbec53"
+                        },
+                        "subType": "image",
+                        "id": "743dc325-1f61-4c3a-a026-530d4a1a9342",
+                        "type": "card",
+                        "version": "1588707304318",
+                        "properties": {
+                            "portraitId": "i1-5c21c937-6af7-428d-9417-06b5d6d8343c",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-5c21c937-6af7-428d-9417-06b5d6d8343c/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "i1-5c21c937-6af7-428d-9417-06b5d6d8343c",
+                            "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-5c21c937-6af7-428d-9417-06b5d6d8343c/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-5c21c937-6af7-428d-9417-06b5d6d8343c/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "i1-5c21c937-6af7-428d-9417-06b5d6d8343c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-5c21c937-6af7-428d-9417-06b5d6d8343c/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "i1-5c21c937-6af7-428d-9417-06b5d6d8343c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-5c21c937-6af7-428d-9417-06b5d6d8343c/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "i1-5c21c937-6af7-428d-9417-06b5d6d8343c",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-05T19:35:04.289Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "i1-5c21c937-6af7-428d-9417-06b5d6d8343c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-5c21c937-6af7-428d-9417-06b5d6d8343c/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                            }
+                        }
+                    }
+                ],
+                "subType": "carousel",
+                "id": "794ab634-e81f-493c-9aca-ea8da1a05b60",
+                "type": "card",
+                "version": "1588707474270",
+                "properties": {
+                    "product": [],
+                    "containerType": "carousel",
+                    "custom": {},
+                    "body": "<p>You’ve earned a second chance at picking up the Air Jordan 1 'Pine Green' after missing out on launch day. Sizes are limited, so move fast!<br>\nAt every turn, paying homage to the past while continuing MJ’s legacy is at the heart of Jordan design. Coming off of 2018’s Black Toe-inspired Pine Green Air Jordan 1 drop, this latest AJ1 does exactly that by tapping into OG Bred-inspired color blocking. This year, a fresh Pine Green tumbled leather anoints the heel, heel collar, toe box, and swoosh. Black tumbled leather and laces provide that classic contrast with a white midsole, while red Nike Air branding on the tongue keeps the style rooted in its heritage. Never to be missed, a pair of black Air Jordan wings clipped to the heel complete the new, but true to form look.<br>\nSKU: 555088-030</p>",
+                    "title": "Pine Green",
+                    "speed": 6000,
+                    "copyId": "0b535043ffcd1112a49fc95d9b1379ce4e1b317c",
+                    "loop": false,
+                    "richTextLinks": [],
+                    "subtitle": "Air Jordan 1",
+                    "colorTheme": "dark",
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-05T19:36:30.542Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "autoPlay": false,
+                    "actions": [
+                        {
+                            "analytics": {
+                                "hashKey": "90030618a2048dd22c021a62652d71e59d0edda717be5f9eb1a1fb854d64db2e"
+                            },
+                            "actionType": "cta_buying_tools",
+                            "product": {
+                                "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                                "styleColor": "555088-030"
+                            },
+                            "destination": {
+                                "product": {
+                                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                                    "styleColor": "555088-030"
+                                },
+                                "type": "BUYING_TOOLS"
+                            },
+                            "id": "662c2785-ccd7-44ae-9164-3cda026df737",
+                            "destinationId": "555088-030"
+                        }
+                    ]
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "fce93b657386958a0a30d1ebeb9c3dc43e4cec60a72bc6b94747679285c28630"
+                },
+                "subType": "image",
+                "id": "5e8edc9b-34f9-4c1c-b7c6-f64f7620af42",
+                "type": "card",
+                "version": "1588707644244",
+                "properties": {
+                    "portraitId": "7f49cb8b-7cbf-46f3-a71e-bee1c0b6220b",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "dd2782c1-bcda-4f71-bba3-f73fabd1f6e7",
+                    "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                    "portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/7f49cb8b-7cbf-46f3-a71e-bee1c0b6220b/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "landscapeURL": "https://c.static-nike.com/a/images/w_1920,c_limit/dd2782c1-bcda-4f71-bba3-f73fabd1f6e7/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "portrait": {
+                        "aspectRatio": 0.66667,
+                        "id": "7f49cb8b-7cbf-46f3-a71e-bee1c0b6220b",
+                        "type": "editorial",
+                        "url": "https://c.static-nike.com/a/images/w_1536,c_limit/7f49cb8b-7cbf-46f3-a71e-bee1c0b6220b/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": "",
+                        "url": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-05T19:40:44.244Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "aspectRatio": 1.88235,
+                        "id": "dd2782c1-bcda-4f71-bba3-f73fabd1f6e7",
+                        "type": "editorial",
+                        "url": "https://c.static-nike.com/a/images/w_1920,c_limit/dd2782c1-bcda-4f71-bba3-f73fabd1f6e7/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "03802f09c9180d4934fe182286262069e61c49ca29acb5048b6b9fce2a1131a8"
+                },
+                "subType": "image",
+                "id": "fef0ab6f-30d1-4ca0-afc8-4f3c648ed50b",
+                "type": "card",
+                "version": "1588707663074",
+                "properties": {
+                    "portraitId": "3f707d45-a17d-4e62-8703-03ac51da679a",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "454449c4-a152-41ad-833c-feec3c9a84f8",
+                    "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                    "portraitURL": "https://c.static-nike.com/a/images/w_1536,c_limit/3f707d45-a17d-4e62-8703-03ac51da679a/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "landscapeURL": "https://c.static-nike.com/a/images/w_1920,c_limit/454449c4-a152-41ad-833c-feec3c9a84f8/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "portrait": {
+                        "aspectRatio": 0.66667,
+                        "id": "3f707d45-a17d-4e62-8703-03ac51da679a",
+                        "type": "editorial",
+                        "url": "https://c.static-nike.com/a/images/w_1536,c_limit/3f707d45-a17d-4e62-8703-03ac51da679a/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": "",
+                        "url": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-05T19:41:03.074Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "aspectRatio": 1.88235,
+                        "id": "454449c4-a152-41ad-833c-feec3c9a84f8",
+                        "type": "editorial",
+                        "url": "https://c.static-nike.com/a/images/w_1920,c_limit/454449c4-a152-41ad-833c-feec3c9a84f8/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "a1b10f6d6d8ad1fb6c8d7704144d51eaa0c05b432a118541d19f263756dc11b4"
+                },
+                "subType": "text",
+                "id": "aecbfde3-4ebb-4d26-9c50-97c189c7248e",
+                "type": "card",
+                "version": "1588707885106",
+                "properties": {
+                    "copyId": "4c073a4b7053d1284051606629157e3cd1f28338",
+                    "product": [],
+                    "richTextLinks": [],
+                    "custom": {},
+                    "subtitle": "Air Jordan 1",
+                    "colorTheme": "dark",
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-05T19:44:45.060Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "body": "<p>Since his game-winning shot that brought championship glory to North Carolina, Michael Jordan has been at the forefront of basketball consciousness. He took the court in 1985 wearing the original Air Jordan I, simultaneously breaking league rules and his opponents’ will while capturing the imagination of fans worldwide.</p>",
+                    "title": "Heritage",
+                    "actions": []
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "48315fba78ae25565014b0ca6905ae539e8a11b6fe80b478676c0b4846efa1a7"
+                },
+                "subType": "image",
+                "id": "84ffc839-2f08-4654-9a4f-9795c966e15a",
+                "type": "card",
+                "version": "1588707981650",
+                "properties": {
+                    "portraitId": "43bbae6d-9983-43bf-91ea-d438aac3a8fc",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "01e310a9-66c7-4f78-9d43-d648a514e37b",
+                    "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/w_1536,c_limit/43bbae6d-9983-43bf-91ea-d438aac3a8fc/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/w_1920,c_limit/01e310a9-66c7-4f78-9d43-d648a514e37b/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "portrait": {
+                        "aspectRatio": 0.66667,
+                        "id": "43bbae6d-9983-43bf-91ea-d438aac3a8fc",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/43bbae6d-9983-43bf-91ea-d438aac3a8fc/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": "",
+                        "url": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-05T19:46:21.617Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "Z",
+                        "id": "01e310a9-66c7-4f78-9d43-d648a514e37b",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/w_1920,c_limit/01e310a9-66c7-4f78-9d43-d648a514e37b/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    }
+                }
+            }
+        ],
+        "properties": {
+            "custom": {
+                "hideFromUpcoming": [
+                    {
+                        "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                        "styleColor": "555088-030"
+                    }
+                ],
+                "restricted": true,
+                "tags": []
+            },
+            "publish": {
+                "collections": [
+                    "d879aa85-698c-41a1-b066-a8ecdf6b8a9c"
+                ]
+            },
+            "threadType": "product",
+            "title": "5.6 Second Chance: AJ1 555088-030",
+            "seo": {
+                "keywords": "",
+                "description": "Explore and buy the Air Jordan 1 'Pine Green'. Stay a step ahead of the latest sneaker launches and drops.",
+                "doNotIndex": false,
+                "title": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                "slug": "air-jordan-1-pine-green-5-6"
+            },
+            "coverCard": {
+                "analytics": {
+                    "hashKey": "356f51e7a83d2cd144aedc5a10533934f690eb80e26399005c546c966332b912"
+                },
+                "subType": "image",
+                "id": "101cd55d-cd5c-4208-9d52-513c2ff7e8b5",
+                "type": "card",
+                "version": "1588707206402",
+                "properties": {
+                    "portraitId": "i1-734cdafe-1534-4349-9800-3e2f17e66df4",
+                    "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-734cdafe-1534-4349-9800-3e2f17e66df4/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "product": [],
+                    "landscapeId": "i1-734cdafe-1534-4349-9800-3e2f17e66df4",
+                    "altText": "Second Chance: Air Jordan 1 'Pine Green' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-734cdafe-1534-4349-9800-3e2f17e66df4/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-734cdafe-1534-4349-9800-3e2f17e66df4/second-chance-air-jordan-1-pine-green-release-date.jpg",
+                    "portrait": {
+                        "view": "A",
+                        "id": "i1-734cdafe-1534-4349-9800-3e2f17e66df4",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/i1-734cdafe-1534-4349-9800-3e2f17e66df4/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    },
+                    "squarish": {
+                        "view": "A",
+                        "id": "i1-734cdafe-1534-4349-9800-3e2f17e66df4",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/i1-734cdafe-1534-4349-9800-3e2f17e66df4/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    },
+                    "title": "Second Chance",
+                    "squarishId": "i1-734cdafe-1534-4349-9800-3e2f17e66df4",
+                    "copyId": "f4a74a7aecc6fb977541428d37ec6de0aea34a50",
+                    "richTextLinks": [],
+                    "subtitle": "Air Jordan 1",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-05T19:33:26.372Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "A",
+                        "id": "i1-734cdafe-1534-4349-9800-3e2f17e66df4",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/i1-734cdafe-1534-4349-9800-3e2f17e66df4/second-chance-air-jordan-1-pine-green-release-date.jpg"
+                    }
+                }
+            },
+            "products": [
+                {
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "styleColor": "555088-030"
+                }
+            ]
+        }
+    },
+    "productInfo": [
+        {
+            "merchProduct": {
+                "id": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                "snapshotId": "369d8ecf-0530-4a21-8d1c-52237c016a8b",
+                "modificationDate": "2020-05-06T00:36:44.988Z",
+                "status": "ACTIVE",
+                "merchGroup": "US",
+                "styleCode": "555088",
+                "colorCode": "030",
+                "styleColor": "555088-030",
+                "pid": "12791976",
+                "catalogId": "62a48e75-08a7-3204-8f0c-e221cf9950da",
+                "productGroupId": "12718899",
+                "brand": "Jordan",
+                "channels": [
+                    "SNKRS",
+                    "Nike Store Experiences"
+                ],
+                "consumerChannels": [
+                    {
+                        "id": "008be467-6c78-4079-94f0-70e2d6cc4003",
+                        "resourceType": "globalization/consumer_channels"
+                    },
+                    {
+                        "id": "16134d36-74f2-11ea-bc55-00242ac13000",
+                        "resourceType": "globalization/consumer_channels"
+                    }
+                ],
+                "legacyCatalogIds": [
+                    "1"
+                ],
+                "genders": [
+                    "MEN",
+                    "WOMEN"
+                ],
+                "sizeConverterId": "039e158b-01b1-3780-aa2f-d4ac5c02ebcd",
+                "valueAddedServices": [
+                    {
+                        "id": "0cba9a6c-ac96-5e0a-8bd9-0d31d5095a7c",
+                        "vasType": "GIFT_MESSAGE"
+                    },
+                    {
+                        "id": "3d62c037-56f3-59d5-81d3-88ce17f7fb99",
+                        "vasType": "GIFT_WRAP"
+                    }
+                ],
+                "sportTags": [
+                    "Lifestyle"
+                ],
+                "classificationConcepts": [],
+                "taxonomyAttributes": [
+                    {
+                        "resourceType": "merch/taxonomy_attributes",
+                        "ids": [
+                            "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+                            "7baf216c-acc6-4452-9e07-39c2ca77ba32",
+                            "16633190-45e5-4830-a068-232ac7aea82c",
+                            "9e5e6948-8820-4a24-a4d3-01cdb5dc8291",
+                            "498ac76f-4c2c-4b55-bbdc-dd37011887b1",
+                            "97a10d31-545b-46d9-ad76-8b4801dd7766",
+                            "0cca4c26-47fe-40fc-bbce-738801fda390",
+                            "ce8f6431-b545-44b5-bb2d-6a2d7b5df3cc",
+                            "193af413-39b0-4d7e-ae34-558821381d3f",
+                            "f18f5202-0b04-4f33-b024-60e832db14ab"
+                        ]
+                    }
+                ],
+                "commerceCountryInclusions": [],
+                "commerceCountryExclusions": [],
+                "abTestValues": [],
+                "productRollup": {
+                    "type": "Standard",
+                    "key": "rHJ8kn"
+                },
+                "quantityLimit": 1,
+                "styleType": "INLINE",
+                "productType": "FOOTWEAR",
+                "publishType": "FLOW",
+                "mainColor": false,
+                "isImageAvailable": true,
+                "isCopyAvailable": true,
+                "isAttributionApproved": true,
+                "exclusiveAccess": true,
+                "hardLaunch": true,
+                "hideFromCSR": true,
+                "hideFromSearch": true,
+                "commercePublishDate": "2020-05-06T07:00:00.000Z",
+                "commerceStartDate": "2020-05-06T16:00:00.000Z",
+                "commerceEndDate": "2021-05-06T17:00:00.000Z",
+                "resourceType": "merchProduct",
+                "links": {
+                    "self": {
+                        "ref": "/merch/products/v2/83f3bb2e-3138-5e8a-a531-182f2041f366"
+                    }
+                }
+            },
+            "merchPrice": {
+                "id": "2ce222c3-6617-5d89-b62e-0a99f10ff592",
+                "snapshotId": "14f4244c-778f-418b-b56c-059d170958f1",
+                "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                "parentType": "merchProduct",
+                "modificationDate": "2020-02-26T23:36:03.962Z",
+                "country": "US",
+                "msrp": 170,
+                "fullPrice": 170,
+                "currentPrice": 170,
+                "currency": "USD",
+                "discounted": false,
+                "promoInclusions": [],
+                "promoExclusions": [
+                    "TRUE"
+                ],
+                "resourceType": "merchPrice",
+                "links": {
+                    "self": {
+                        "ref": "/merch/prices/v2/2ce222c3-6617-5d89-b62e-0a99f10ff592"
+                    }
+                }
+            },
+            "availability": {
+                "id": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                "resourceType": "availableProducts",
+                "links": {
+                    "self": {
+                        "ref": "/deliver/available_products/v1/83f3bb2e-3138-5e8a-a531-182f2041f366"
+                    }
+                },
+                "available": true
+            },
+            "productContent": {
+                "globalPid": "12791976",
+                "langLocale": "en_US",
+                "colorDescription": "Black/White/Gym Red/Pine Green",
+                "slug": "air-jordan-1-retro-high-og-shoe",
+                "fullTitle": "Air Jordan 1 Retro High OG Shoe",
+                "title": "Air Jordan 1 Retro High OG",
+                "subtitle": "Shoe",
+                "descriptionHeading": "THE ICONIC 1.",
+                "description": "<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>THE ICONIC 1.</b></p><br><p>Familiar but always fresh, the iconic Air Jordan 1 is remastered for today&#39;s sneakerhead culture. This Retro High OG version goes all in with full-grain leather, comfortable cushioning and classic design details.</p><br><p><b>Air Inside</b></p><p>The Air-Sole unit in the heel provides the same lightweight cushioning that MJ enjoyed back in his playing days.</p><br><p><b>Leather Luxe</b></p><p>Full-grain leather provides lightweight support and OG basketball sneaker style.</p><br><p><b>Classic Cupsole</b></p><p>Why mess with greatness? Stable and supportive, the shoe&#39;s cupsole has the same profile and thick stitch detailing as the original.</p><br><p><b>Product Details</b></p><ul><li>Rubber tread with deep flex grooves</li></ul></div></div>",
+                "techSpec": "",
+                "manufacturingCountriesOfOrigin": [],
+                "sizeChart": "unisex-shoe-sizing-chart",
+                "colors": [
+                    {
+                        "type": "SIMPLE",
+                        "name": "Black",
+                        "hex": "13161A"
+                    },
+                    {
+                        "type": "PRIMARY",
+                        "name": "Black",
+                        "hex": "13161A"
+                    },
+                    {
+                        "type": "SECONDARY",
+                        "name": "White",
+                        "hex": "FFFFFF"
+                    },
+                    {
+                        "type": "TERTIARY",
+                        "name": "Gym Red",
+                        "hex": "7C2232"
+                    },
+                    {
+                        "type": "LOGO",
+                        "name": "Pine Green",
+                        "hex": "396540"
+                    }
+                ],
+                "bestFor": [],
+                "athletes": [],
+                "widths": [
+                    {
+                        "value": "REGULAR",
+                        "localizedValue": "Regular"
+                    }
+                ]
+            },
+            "imageUrls": {
+                "productImageUrl": "https://secure-images.nike.com/is/image/DotCom/555088_030"
+            },
+            "skus": [
+                {
+                    "id": "b7cb5bda-b3fc-5512-ae27-31b398041508",
+                    "snapshotId": "adad24a3-f3bd-49a5-a548-b50f3d10468e",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "64e48605-d5e6-370d-ace4-c75746833dd7",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136480",
+                    "gtin": "00193654038434",
+                    "nikeSize": "7",
+                    "sizeConversionId": "d23dd206-e459-3d50-b3fe-5ca4426137d3",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 7 / W 8.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/b7cb5bda-b3fc-5512-ae27-31b398041508?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "c0d35fba-693e-51bd-96cd-a144b6c6f130",
+                    "snapshotId": "58d081c0-e5ba-4982-a81d-53843673af75",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "08dbefb0-69de-3b9b-9aae-e2f7d11bf035",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136485",
+                    "gtin": "00193654038441",
+                    "nikeSize": "7.5",
+                    "sizeConversionId": "f5cdf573-63b1-3d72-bc11-e4173c20c09f",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 7.5 / W 9",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/c0d35fba-693e-51bd-96cd-a144b6c6f130?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "5065b27b-58be-5e53-b85f-7346f3f46184",
+                    "snapshotId": "2ab0c4fc-ff5b-4c18-8c32-9abd39131c8b",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "07480db6-b7a5-3f34-8e26-6cd4d435ec44",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136481",
+                    "gtin": "00193654038458",
+                    "nikeSize": "8",
+                    "sizeConversionId": "7abdd901-856d-3601-94bf-14313cee8354",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 8 / W 9.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/5065b27b-58be-5e53-b85f-7346f3f46184?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "cdf29961-e5d3-54dd-9775-ec06a4a4a06d",
+                    "snapshotId": "f7769d5a-2fea-4a8f-9097-53b443836a88",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "4b3c74f7-8476-3018-b56c-0e11d33b50aa",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136484",
+                    "gtin": "00193654038465",
+                    "nikeSize": "8.5",
+                    "sizeConversionId": "c030f969-024a-3791-83ac-6e505b324861",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 8.5 / W 10",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/cdf29961-e5d3-54dd-9775-ec06a4a4a06d?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "5cb2bf99-7fc7-5e00-9500-634100516a49",
+                    "snapshotId": "c529e5f9-6147-41b6-a99f-f4e720446db0",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "e20c3388-4d60-3e7a-a390-088f313279d6",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136482",
+                    "gtin": "00193654038472",
+                    "nikeSize": "9",
+                    "sizeConversionId": "0a937561-8633-3ea1-8ae3-8509f50f4127",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 9 / W 10.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/5cb2bf99-7fc7-5e00-9500-634100516a49?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "1ee0cca0-9420-55f0-a814-2661d42cd6b6",
+                    "snapshotId": "edd264e3-bb36-4a87-8d87-3b878e7f8086",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "30520faf-54e8-37bc-bd2f-b8eb3eb8099e",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136483",
+                    "gtin": "00193654038489",
+                    "nikeSize": "9.5",
+                    "sizeConversionId": "618e0e56-f642-3b7e-b1a9-1ec3d14a4bb0",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 9.5 / W 11",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/1ee0cca0-9420-55f0-a814-2661d42cd6b6?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "8c39d8f2-e34d-5c7b-a2d0-aa237bf0fb16",
+                    "snapshotId": "4c9ae71a-4cfe-4a98-9f56-fd27a60b63cb",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "0c06956d-6d99-314c-9bbd-6fb6feb62c1c",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136487",
+                    "gtin": "00193654038496",
+                    "nikeSize": "10",
+                    "sizeConversionId": "01097ea6-0c27-3c83-91eb-d7757ac196e3",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 10 / W 11.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/8c39d8f2-e34d-5c7b-a2d0-aa237bf0fb16?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "f8827427-c59c-576c-91ab-a4d463185a33",
+                    "snapshotId": "bba0fc52-5b73-4060-99ac-f953b35829fd",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "28562a90-0d51-37bd-8f7a-a2167cca86d1",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136488",
+                    "gtin": "00193654038502",
+                    "nikeSize": "10.5",
+                    "sizeConversionId": "7af3d3c5-a8cf-39aa-a8da-e5ec24c016de",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 10.5 / W 12",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/f8827427-c59c-576c-91ab-a4d463185a33?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "a6e2d923-5e76-5cc9-a93f-a47b92f95438",
+                    "snapshotId": "c9d3a73e-9f6b-4539-acd2-a87d73bfdf01",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "29486b2a-6600-3d79-a362-c53a7b796f79",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136489",
+                    "gtin": "00193654038519",
+                    "nikeSize": "11",
+                    "sizeConversionId": "7cf5846a-5c1e-3be6-bbff-74de4f88e7f0",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 11 / W 12.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/a6e2d923-5e76-5cc9-a93f-a47b92f95438?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "af683490-e3e1-559c-88f1-9a973e4caaa7",
+                    "snapshotId": "8ca7d570-9967-4888-9b3e-9b8556c3f3af",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "7c25f8c5-5950-3e35-99ea-2256baab1ddd",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136490",
+                    "gtin": "00193654038526",
+                    "nikeSize": "11.5",
+                    "sizeConversionId": "7a223c0d-276a-3ce4-ade6-cc5c8d636bfa",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 11.5 / W 13",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/af683490-e3e1-559c-88f1-9a973e4caaa7?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "cd1e18d8-70f6-5eb6-8585-161df7b59ee7",
+                    "snapshotId": "686496a7-4bbc-41db-8211-39d073e10359",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "21d489f9-8e66-3e0c-a3fd-5af8622660fa",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136491",
+                    "gtin": "00193654038533",
+                    "nikeSize": "12",
+                    "sizeConversionId": "ce920033-3ed0-3855-a3d9-e82dde5776c7",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 12 / W 13.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/cd1e18d8-70f6-5eb6-8585-161df7b59ee7?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "8201a0fd-9355-5254-965c-5480b90b1184",
+                    "snapshotId": "8f8863b1-1521-4738-89bb-474c2bd87c9d",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "9b60b3c2-a463-39cf-815e-066dceaeb610",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136492",
+                    "gtin": "00193654038540",
+                    "nikeSize": "12.5",
+                    "sizeConversionId": "2057952b-1a72-368e-b4b1-f67091ff1799",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 12.5 / W 14",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/8201a0fd-9355-5254-965c-5480b90b1184?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "e05dba9d-60b6-5d66-bd94-313f2d313754",
+                    "snapshotId": "6251baf1-c458-40c5-8a78-bdfc568a0f51",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "ffef68a9-48cf-39d7-9f93-7063b3fbe49a",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136493",
+                    "gtin": "00193654038557",
+                    "nikeSize": "13",
+                    "sizeConversionId": "3622c403-7151-3db8-ac44-d0fbeee71197",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 13 / W 14.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/e05dba9d-60b6-5d66-bd94-313f2d313754?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "57427255-2633-5a90-ad16-0515fb03792e",
+                    "snapshotId": "144e84bb-1865-4c44-95a3-6afd1b652cca",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "f4251574-4ffe-3d92-99ed-2a4766e55220",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136474",
+                    "gtin": "00193654038564",
+                    "nikeSize": "14",
+                    "sizeConversionId": "a19080d2-a9de-3523-a98d-0ffaddb287fd",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 14 / W 15.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/57427255-2633-5a90-ad16-0515fb03792e?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "410988bf-0034-5fa0-9007-437e0af614e8",
+                    "snapshotId": "9156fa4a-d655-40ca-b4d3-5640670e70f0",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "d6a6f426-0d74-3d83-9d4f-20c369e65435",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136475",
+                    "gtin": "00193654038571",
+                    "nikeSize": "15",
+                    "sizeConversionId": "2e0b5ce6-1e53-377c-ad44-9f504f7d226a",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 15 / W 16.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/410988bf-0034-5fa0-9007-437e0af614e8?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "0005c24b-7ef8-5120-b5b6-a600c706f4ee",
+                    "snapshotId": "af7dc310-8a3e-48c8-9d09-54a25994bb7e",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "20acebc7-6566-39bc-a565-690e43126348",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136476",
+                    "gtin": "00193654038588",
+                    "nikeSize": "16",
+                    "sizeConversionId": "e39388f2-5325-3bdf-ad80-effb489f19f8",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 16 / W 17.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/0005c24b-7ef8-5120-b5b6-a600c706f4ee?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "a0bf5db7-a360-5ccc-aac7-de685232812f",
+                    "snapshotId": "25b91fb7-0e85-468e-a1d1-24e2b6b6f67d",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "be00438b-a9c9-3981-bb03-97b4fc7ff496",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136477",
+                    "gtin": "00193654038595",
+                    "nikeSize": "17",
+                    "sizeConversionId": "c046d34b-f46a-39a4-a70e-d038112952f6",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 17 / W 18.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/a0bf5db7-a360-5ccc-aac7-de685232812f?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "2b9f558c-5b07-5a79-acb7-27329d6b7c74",
+                    "snapshotId": "d4a07633-4fc5-4a99-9668-0acb56b75125",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "bcd57b4d-f220-3e96-9fa6-2eb6ac6cba43",
+                    "modificationDate": "2020-04-20T14:32:28.429Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "24136478",
+                    "gtin": "00193654038601",
+                    "nikeSize": "18",
+                    "sizeConversionId": "f85e32d7-13a0-33f8-94f7-d9d0b037d1f3",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 18 / W 19.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/2b9f558c-5b07-5a79-acb7-27329d6b7c74?country=US?language=en"
+                        }
+                    }
+                }
+            ],
+            "availableSkus": [
+                {
+                    "id": "b7cb5bda-b3fc-5512-ae27-31b398041508",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/b7cb5bda-b3fc-5512-ae27-31b398041508"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "b7cb5bda-b3fc-5512-ae27-31b398041508"
+                },
+                {
+                    "id": "c0d35fba-693e-51bd-96cd-a144b6c6f130",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/c0d35fba-693e-51bd-96cd-a144b6c6f130"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "c0d35fba-693e-51bd-96cd-a144b6c6f130"
+                },
+                {
+                    "id": "5065b27b-58be-5e53-b85f-7346f3f46184",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/5065b27b-58be-5e53-b85f-7346f3f46184"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "5065b27b-58be-5e53-b85f-7346f3f46184"
+                },
+                {
+                    "id": "cdf29961-e5d3-54dd-9775-ec06a4a4a06d",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/cdf29961-e5d3-54dd-9775-ec06a4a4a06d"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "cdf29961-e5d3-54dd-9775-ec06a4a4a06d"
+                },
+                {
+                    "id": "5cb2bf99-7fc7-5e00-9500-634100516a49",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/5cb2bf99-7fc7-5e00-9500-634100516a49"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "5cb2bf99-7fc7-5e00-9500-634100516a49"
+                },
+                {
+                    "id": "1ee0cca0-9420-55f0-a814-2661d42cd6b6",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/1ee0cca0-9420-55f0-a814-2661d42cd6b6"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "1ee0cca0-9420-55f0-a814-2661d42cd6b6"
+                },
+                {
+                    "id": "8c39d8f2-e34d-5c7b-a2d0-aa237bf0fb16",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/8c39d8f2-e34d-5c7b-a2d0-aa237bf0fb16"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "8c39d8f2-e34d-5c7b-a2d0-aa237bf0fb16"
+                },
+                {
+                    "id": "f8827427-c59c-576c-91ab-a4d463185a33",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/f8827427-c59c-576c-91ab-a4d463185a33"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "f8827427-c59c-576c-91ab-a4d463185a33"
+                },
+                {
+                    "id": "a6e2d923-5e76-5cc9-a93f-a47b92f95438",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/a6e2d923-5e76-5cc9-a93f-a47b92f95438"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "a6e2d923-5e76-5cc9-a93f-a47b92f95438"
+                },
+                {
+                    "id": "af683490-e3e1-559c-88f1-9a973e4caaa7",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/af683490-e3e1-559c-88f1-9a973e4caaa7"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "af683490-e3e1-559c-88f1-9a973e4caaa7"
+                },
+                {
+                    "id": "cd1e18d8-70f6-5eb6-8585-161df7b59ee7",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/cd1e18d8-70f6-5eb6-8585-161df7b59ee7"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "cd1e18d8-70f6-5eb6-8585-161df7b59ee7"
+                },
+                {
+                    "id": "8201a0fd-9355-5254-965c-5480b90b1184",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/8201a0fd-9355-5254-965c-5480b90b1184"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "8201a0fd-9355-5254-965c-5480b90b1184"
+                },
+                {
+                    "id": "e05dba9d-60b6-5d66-bd94-313f2d313754",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/e05dba9d-60b6-5d66-bd94-313f2d313754"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "e05dba9d-60b6-5d66-bd94-313f2d313754"
+                },
+                {
+                    "id": "57427255-2633-5a90-ad16-0515fb03792e",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/57427255-2633-5a90-ad16-0515fb03792e"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "57427255-2633-5a90-ad16-0515fb03792e"
+                },
+                {
+                    "id": "410988bf-0034-5fa0-9007-437e0af614e8",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/410988bf-0034-5fa0-9007-437e0af614e8"
+                        }
+                    },
+                    "available": true,
+                    "level": "MEDIUM",
+                    "skuId": "410988bf-0034-5fa0-9007-437e0af614e8"
+                },
+                {
+                    "id": "0005c24b-7ef8-5120-b5b6-a600c706f4ee",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/0005c24b-7ef8-5120-b5b6-a600c706f4ee"
+                        }
+                    },
+                    "available": true,
+                    "level": "LOW",
+                    "skuId": "0005c24b-7ef8-5120-b5b6-a600c706f4ee"
+                },
+                {
+                    "id": "a0bf5db7-a360-5ccc-aac7-de685232812f",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/a0bf5db7-a360-5ccc-aac7-de685232812f"
+                        }
+                    },
+                    "available": true,
+                    "level": "LOW",
+                    "skuId": "a0bf5db7-a360-5ccc-aac7-de685232812f"
+                },
+                {
+                    "id": "2b9f558c-5b07-5a79-acb7-27329d6b7c74",
+                    "productId": "83f3bb2e-3138-5e8a-a531-182f2041f366",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/2b9f558c-5b07-5a79-acb7-27329d6b7c74"
+                        }
+                    },
+                    "available": true,
+                    "level": "LOW",
+                    "skuId": "2b9f558c-5b07-5a79-acb7-27329d6b7c74"
+                }
+            ],
+            "socialInterest": {
+                "id": "eea2d57b-b0a9-3b03-a2f1-faabf01d0a65"
+            }
+        }
+    ]
+}

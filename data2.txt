@@ -1,0 +1,897 @@
+{
+    "nodes": [
+        {
+            "analytics": {
+                "hashKey": "fed7ac9a6602f5533fedf57e089ed275e82f2dddab470e33100313d5df52bbee"
+            },
+            "subType": "image",
+            "id": "9ed60c77-d239-4b61-8d43-90e700c40b20",
+            "type": "card",
+            "version": "1588789708774",
+            "properties": {
+                "portraitId": "53c8e12f-563c-4b7a-9214-94b9ca8fb291",
+                "squarishURL": "",
+                "product": [],
+                "landscapeId": "53f0a1e0-baf9-41ba-8ac4-cfc1fa8dfcd7",
+                "altText": "Behind The Design: Adapt Auto Max",
+                "portraitURL": "https://static.nike.com/a/images/w_1536,c_limit/53c8e12f-563c-4b7a-9214-94b9ca8fb291/behind-the-design-adapt-auto-max.jpg",
+                "custom": {},
+                "landscapeURL": "https://static.nike.com/a/images/w_1920,c_limit/53f0a1e0-baf9-41ba-8ac4-cfc1fa8dfcd7/behind-the-design-adapt-auto-max.jpg",
+                "portrait": {
+                    "aspectRatio": 0.66667,
+                    "id": "53c8e12f-563c-4b7a-9214-94b9ca8fb291",
+                    "type": "editorial",
+                    "url": "https://static.nike.com/a/images/w_1536,c_limit/53c8e12f-563c-4b7a-9214-94b9ca8fb291/behind-the-design-adapt-auto-max.jpg"
+                },
+                "squarish": {
+                    "id": "",
+                    "url": ""
+                },
+                "title": "Behind The Design",
+                "squarishId": "",
+                "copyId": "26e15d48ecc3d55a7e40c593701a592a78fe2cb6",
+                "richTextLinks": [],
+                "subtitle": "Adapt Auto Max",
+                "colorTheme": "light",
+                "secondaryPortrait": {
+                    "id": ""
+                },
+                "style": {
+                    "defaultStyle": {
+                        "textLocation": {
+                            "horizontal": "center",
+                            "vertical": "end"
+                        }
+                    },
+                    "modifiedDate": "2020-05-06T18:28:28.753Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "subtitle": {
+                            "fontFamily": "base",
+                            "fontStyle": "regular"
+                        },
+                        "title": {
+                            "fontFamily": "marketing",
+                            "fontStyle": "regular"
+                        },
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "actions": [],
+                "landscape": {
+                    "aspectRatio": 1.88235,
+                    "id": "53f0a1e0-baf9-41ba-8ac4-cfc1fa8dfcd7",
+                    "type": "editorial",
+                    "url": "https://static.nike.com/a/images/w_1920,c_limit/53f0a1e0-baf9-41ba-8ac4-cfc1fa8dfcd7/behind-the-design-adapt-auto-max.jpg"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "3eb0225449222ef30b9bbdc6b91c1b76ea453ff36c65580c51e3a7dfe09717b5"
+            },
+            "subType": "video",
+            "id": "f60d613e-54c7-4d00-b06d-231a9ed1abb3",
+            "type": "card",
+            "version": "1588789467491",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/dd1d7043-44bc-47ce-b86e-1ae14942a30e/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152712532001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152712532001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:24:27.466Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "dd1d7043-44bc-47ce-b86e-1ae14942a30e",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/dd1d7043-44bc-47ce-b86e-1ae14942a30e/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "dd1d7043-44bc-47ce-b86e-1ae14942a30e",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/dd1d7043-44bc-47ce-b86e-1ae14942a30e/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152712532001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "b1f01645e00b7e364c509e532867899ecc49c150fa58639726af68913bf8e186"
+            },
+            "subType": "text",
+            "id": "9f6b4cf0-6bde-4c64-b37d-c849a1cd7ce0",
+            "type": "card",
+            "version": "1588789432020",
+            "properties": {
+                "copyId": "3bbf9ad132c4ce734d24815b4c3edc8595d98b41",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.020Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>Hi, I'm Nate. I'm a footwear designer, and I worked on the Nike Adapt Auto Max. I'm Reggie. I'm a PLM at Nike and I worked on the Auto Max.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "570dfca1cfe5f67ffffa60920c48011071304383b5e6f194b68454107063efbb"
+            },
+            "subType": "video",
+            "id": "c592bcb1-41d7-499f-8e61-988cd1c35955",
+            "type": "card",
+            "version": "1588789472704",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/854341f3-086d-49e5-871e-e837e5a5ccea/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152716182001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152716182001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:24:32.675Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "854341f3-086d-49e5-871e-e837e5a5ccea",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/854341f3-086d-49e5-871e-e837e5a5ccea/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "854341f3-086d-49e5-871e-e837e5a5ccea",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/854341f3-086d-49e5-871e-e837e5a5ccea/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152716182001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "90b86544846396ef204e1144cadb0afb71ee4d23ad94b8f109e38f15d8cc59ab"
+            },
+            "subType": "text",
+            "id": "a87c7a46-a562-4dd8-9775-267db28a16bb",
+            "type": "card",
+            "version": "1588789432022",
+            "properties": {
+                "copyId": "bc9e3381ed0ef5f90f23efec653b7d5ddaf448ad",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.022Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>For the second job, we are going back to this idea of infrared, also relates back to the Air Max 90 and the most iconic color of that shoe.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "d197172767d4443150194fe24b82b4835fe785bf7615cd911b7f7085a3ee3bee"
+            },
+            "subType": "video",
+            "id": "a307ac26-b4e9-46f5-a835-12958d9b1ebb",
+            "type": "card",
+            "version": "1588789573349",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/57fb5294-fe79-4efc-a9a1-085295a52dd9/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152715893001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152715893001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:26:13.318Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "57fb5294-fe79-4efc-a9a1-085295a52dd9",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/57fb5294-fe79-4efc-a9a1-085295a52dd9/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "57fb5294-fe79-4efc-a9a1-085295a52dd9",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/57fb5294-fe79-4efc-a9a1-085295a52dd9/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152715893001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "7fa08b55d936a3748cbe921d53e278b8ce166b8d700b72ca17f7573b70167ea5"
+            },
+            "subType": "text",
+            "id": "c3812cb1-24e9-4012-b38e-00e6b3862645",
+            "type": "card",
+            "version": "1588789432023",
+            "properties": {
+                "copyId": "eb5ba38ca53a420d16a89fd053010787f83abc35",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.023Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>The Nike MAG was certainly a large point of inspiration for us. We wanted to take a few different elements of that MAG DNA and shoot it through the lens of Air Max in order to create kind of a new silhouette.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "2c83b1d0b8299902b8d085e2a70a94ca440bbf156238f22f32f0a733a2d0901f"
+            },
+            "subType": "video",
+            "id": "8782aca6-dd59-4240-9211-a2bd0cff238d",
+            "type": "card",
+            "version": "1588789580920",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/767ecfef-c165-42ef-8269-e49cf1c59785/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152709715001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152709715001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:26:20.894Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "767ecfef-c165-42ef-8269-e49cf1c59785",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/767ecfef-c165-42ef-8269-e49cf1c59785/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "767ecfef-c165-42ef-8269-e49cf1c59785",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/767ecfef-c165-42ef-8269-e49cf1c59785/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152709715001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "fb83072d30742c6c82e23fdcbaffe0244f6168b4a134bfffe4d883ac185620cb"
+            },
+            "subType": "text",
+            "id": "1655e714-b57e-4eb8-9173-7fa7bebd8524",
+            "type": "card",
+            "version": "1588789432019",
+            "properties": {
+                "copyId": "327bdf6c26a0876610392ed29a4e63998a2e7fff",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.019Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>And we got super inspired by this kind of clash of the future and the retro elements of Tokyo life and the architecture, so I think that was definitely something that we wanted to play into within the design.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "16054f4e59d86c0320d56297a9f76af8071c61a24a9166a2a2842a94433ea012"
+            },
+            "subType": "video",
+            "id": "e0f8de7d-c20a-4f3e-aaad-6aedbf7362e7",
+            "type": "card",
+            "version": "1588789585195",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/c5500a59-e6b2-4c48-a3d1-0e64218fae97/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152712545001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152712545001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:26:25.166Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "c5500a59-e6b2-4c48-a3d1-0e64218fae97",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/c5500a59-e6b2-4c48-a3d1-0e64218fae97/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "c5500a59-e6b2-4c48-a3d1-0e64218fae97",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/c5500a59-e6b2-4c48-a3d1-0e64218fae97/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152712545001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "fad39b2e2f18939f83fd6024c6242c2114c857441d147c252e92f5b892a707c5"
+            },
+            "subType": "text",
+            "id": "0ee7654b-cc3d-4207-b4aa-73a74ea1fc12",
+            "type": "card",
+            "version": "1588789432024",
+            "properties": {
+                "copyId": "a238cb0165c6bbf517ae01719ac818007de3097c",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.024Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>So this app, like any of the other Nike Adapt products, is to basically facilitate interacting with the shoe in a new way. Some of the features with this shoe is going to be a shortcut view of voice through five customizable Siri shortcuts.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "fa8404c124a6068e8adae77ea2d4329dbe007d877b010fc4c3807f5fcc4d9daf"
+            },
+            "subType": "video",
+            "id": "e99bacab-6cf0-4a9b-b4b1-a64f6657c667",
+            "type": "card",
+            "version": "1588789589585",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/6cdb7036-d79f-45b3-a830-51fb52a7acca/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152715892001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152715892001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:26:29.572Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "6cdb7036-d79f-45b3-a830-51fb52a7acca",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/6cdb7036-d79f-45b3-a830-51fb52a7acca/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "6cdb7036-d79f-45b3-a830-51fb52a7acca",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/6cdb7036-d79f-45b3-a830-51fb52a7acca/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152715892001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "9663d00c7f156bd22feb22bbb70f0f9315a63693f3e965f4f96c235b3ea3891a"
+            },
+            "subType": "text",
+            "id": "b9ce4fa7-bcdd-46e9-ab0b-2a1c26fde021",
+            "type": "card",
+            "version": "1588789432022",
+            "properties": {
+                "copyId": "edb6c83cf1c4097a62808bcf4968edda704f1eb3",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.022Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>So you'll now have the ability to control your fit from your wrist, and meaning that with your Apple Watch, you'll be easily able to tighten and loosen the fit. We're going to offer more variation going forward with 13 different iconic Nike colors.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "d3060ddc23cf32120aa4b7f4b4fcc0480804d015b67970920011ea62eab40e1f"
+            },
+            "subType": "video",
+            "id": "196430fc-6f40-4ffe-a7e2-c4f93c1e17f9",
+            "type": "card",
+            "version": "1588789593959",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/4404b8e0-3a08-4a97-a3ab-15689c9c2928/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152709716001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152709716001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:26:33.947Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "4404b8e0-3a08-4a97-a3ab-15689c9c2928",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/4404b8e0-3a08-4a97-a3ab-15689c9c2928/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "4404b8e0-3a08-4a97-a3ab-15689c9c2928",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/4404b8e0-3a08-4a97-a3ab-15689c9c2928/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152709716001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "b74c958a9bd14c6c68332937f16828c1de0c734d3b4613ad9a8b40fd4f105405"
+            },
+            "subType": "text",
+            "id": "9224783b-6abd-460a-aa1c-da6498cf31cd",
+            "type": "card",
+            "version": "1588789432020",
+            "properties": {
+                "copyId": "b6d466b0b001bc8b10d2c0653af06db9d1711f04",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.020Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>I think one of the things that you, you did really nicely is the kind of idea that the shoe's going to kind of cup and hug the foot. Even just like looking at the shoe, it looks super comfortable.</p>",
+                "title": "",
+                "actions": []
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "93af012219c2ae45d34c91a0c713378e3480775e10bdf4ffe68373b76f0bccd3"
+            },
+            "subType": "video",
+            "id": "3b9be81a-496a-43d4-8c41-368150e2cb36",
+            "type": "card",
+            "version": "1588789598026",
+            "properties": {
+                "startImageURL": "https://static.nike.com/a/images/w_1536,c_limit/9f65a1de-be39-4616-a201-ae84992be76b/image.png",
+                "product": [],
+                "custom": {},
+                "videoId": "6152714900001",
+                "body": "",
+                "portrait": {
+                    "providerId": "brightcove",
+                    "videoId": "6152714900001"
+                },
+                "title": "",
+                "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                "loop": false,
+                "providerId": "brightcove",
+                "richTextLinks": [],
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:26:37.904Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "startImage": {
+                    "altText": "",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "portrait": {
+                        "aspectRatio": 0.88889,
+                        "id": "9f65a1de-be39-4616-a201-ae84992be76b",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/9f65a1de-be39-4616-a201-ae84992be76b/image.png"
+                    },
+                    "squarish": {
+                        "aspectRatio": 0.88889,
+                        "id": "9f65a1de-be39-4616-a201-ae84992be76b",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_960,c_limit/9f65a1de-be39-4616-a201-ae84992be76b/image.png"
+                    },
+                    "landscape": {
+                        "id": ""
+                    }
+                },
+                "autoPlay": false,
+                "actions": [],
+                "landscape": {
+                    "providerId": "brightcove",
+                    "videoId": "6152714900001"
+                }
+            }
+        },
+        {
+            "analytics": {
+                "hashKey": "4e69b03f1f39818b856ca1daa648bb918c70fc4ec788ac749670b51065d52d44"
+            },
+            "subType": "text",
+            "id": "7961c427-91f2-4140-8602-b9e7f68f3af4",
+            "type": "card",
+            "version": "1588789432020",
+            "properties": {
+                "copyId": "c75097fe88b27fd228e7311acbe12e59037f18c0",
+                "product": [],
+                "richTextLinks": [],
+                "custom": {},
+                "subtitle": "",
+                "colorTheme": "dark",
+                "style": {
+                    "defaultStyle": {},
+                    "modifiedDate": "2020-05-06T18:23:52.020Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "body": "<p>Of course, the whole team did an amazing job. It was one of the most complex projects that I've been part of, so props to the team.</p>",
+                "title": "",
+                "actions": []
+            }
+        }
+    ],
+    "properties": {
+        "custom": {
+            "restricted": false,
+            "tags": [
+                "BEHIND THE DESIGN",
+                "STORIES"
+            ]
+        },
+        "publish": {
+            "collections": [
+                "d879aa85-698c-41a1-b066-a8ecdf6b8a9c"
+            ]
+        },
+        "threadType": "editorial",
+        "title": "Behind The Design: Adapt Auto Max",
+        "seo": {
+            "keywords": "",
+            "description": "Take a look behind the design of the Adapt Auto Max. Stay a step ahead of the latest sneaker launches and drops.",
+            "doNotIndex": false,
+            "title": "Behind The Design: Adapt Auto Max",
+            "slug": "behind-design-adapt-auto-max-na"
+        },
+        "coverCard": {
+            "analytics": {
+                "hashKey": "1625b31db2c23c7056e8ec6cc9ff8613c0b0f61d1697fad2e175de8e3bee6b3b"
+            },
+            "subType": "image",
+            "id": "eb6db996-119c-4659-ba38-0f57615fb44c",
+            "type": "card",
+            "version": "1588789458894",
+            "properties": {
+                "portraitId": "bff9892a-53d2-4b62-8b8d-7b1053ed807d",
+                "squarishURL": "https://static.nike.com/a/images/w_960,c_limit/bff9892a-53d2-4b62-8b8d-7b1053ed807d/behind-the-design-adapt-auto-max.jpg",
+                "product": [],
+                "landscapeId": "",
+                "altText": "Behind The Design: Adapt Auto Max",
+                "portraitURL": "https://static.nike.com/a/images/w_1536,c_limit/bff9892a-53d2-4b62-8b8d-7b1053ed807d/behind-the-design-adapt-auto-max.jpg",
+                "custom": {},
+                "landscapeURL": "",
+                "portrait": {
+                    "aspectRatio": 0.88863,
+                    "id": "bff9892a-53d2-4b62-8b8d-7b1053ed807d",
+                    "type": "editorial",
+                    "url": "https://static.nike.com/a/images/w_1536,c_limit/bff9892a-53d2-4b62-8b8d-7b1053ed807d/behind-the-design-adapt-auto-max.jpg"
+                },
+                "squarish": {
+                    "aspectRatio": 0.88863,
+                    "id": "bff9892a-53d2-4b62-8b8d-7b1053ed807d",
+                    "type": "editorial",
+                    "url": "https://static.nike.com/a/images/w_960,c_limit/bff9892a-53d2-4b62-8b8d-7b1053ed807d/behind-the-design-adapt-auto-max.jpg"
+                },
+                "title": "Behind The Design",
+                "squarishId": "bff9892a-53d2-4b62-8b8d-7b1053ed807d",
+                "copyId": "26e15d48ecc3d55a7e40c593701a592a78fe2cb6",
+                "richTextLinks": [],
+                "subtitle": "Adapt Auto Max",
+                "colorTheme": "light",
+                "secondaryPortrait": {
+                    "id": ""
+                },
+                "style": {
+                    "defaultStyle": {
+                        "textLocation": {
+                            "horizontal": "center",
+                            "vertical": "end"
+                        }
+                    },
+                    "modifiedDate": "2020-05-06T18:24:18.885Z",
+                    "exposeTemplate": false,
+                    "properties": {
+                        "subtitle": {
+                            "fontFamily": "base",
+                            "fontStyle": "regular"
+                        },
+                        "title": {
+                            "fontFamily": "marketing",
+                            "fontStyle": "regular"
+                        },
+                        "actions": {}
+                    },
+                    "resourceType": "content/style"
+                },
+                "actions": [],
+                "landscape": {
+                    "id": "",
+                    "url": ""
+                }
+            }
+        }
+    }
+}

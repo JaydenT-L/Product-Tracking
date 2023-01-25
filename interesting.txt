@@ -1,0 +1,24 @@
+PYARMOR:
+
+Obfuscate scripts
+pyarmor obfuscate --exact supreme.py controller.py tech.py log.py discord_hooks.py supremef.py shopify.py
+
+pyarmor obfuscate tech_monitor.py
+Run obfuscated scripts
+
+python dist/foo.py
+Pack obfuscated scripts into one bundle
+
+pip install pyinstaller
+pyarmor pack foo.py
+
+CREATE REQUIREMENT.txt
+pip freeze > requirements.txt
+
+INSTALL REQUIREMENT.txt
+
+pip3 install -r requirements.txt
+
+pip install --user --upgrade pymongo pymongo[srv] dnspython
+
+mongodb+srv://KimochiReposter:GOCUIpjlUDxkVcr2@kimochibot.7k71a.mongodb.net/mydatabase?retryWrites=true&w=majority

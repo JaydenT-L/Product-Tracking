@@ -1,0 +1,2212 @@
+{
+    "id": "d39d7224-60ce-4725-b471-32c19134128b",
+    "lastFetchTime": "2020-05-06T19:16:59.468Z",
+    "publishedContent": {
+        "nodes": [
+            {
+                "analytics": {
+                    "hashKey": "9ff23881b957b6a9943a78e6465c9a2711842190c07efd9b7a55c9b3575e6d91"
+                },
+                "nodes": [
+                    {
+                        "analytics": {
+                            "hashKey": "5f54ed9e6d2ba90efdabdc7f286489f77795aab2474f2786559c7a63afbc8f41"
+                        },
+                        "subType": "image",
+                        "id": "f6c163ad-41f2-4f77-a61c-a7238f8297fa",
+                        "type": "card",
+                        "version": "1588431694528",
+                        "properties": {
+                            "portraitId": "48ba8c93-f694-49ce-a230-d2128997958d",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/48ba8c93-f694-49ce-a230-d2128997958d/lebron-7-media-day-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "48ba8c93-f694-49ce-a230-d2128997958d",
+                            "altText": "LeBron 7 'Media Day' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/48ba8c93-f694-49ce-a230-d2128997958d/lebron-7-media-day-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/48ba8c93-f694-49ce-a230-d2128997958d/lebron-7-media-day-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "48ba8c93-f694-49ce-a230-d2128997958d",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/48ba8c93-f694-49ce-a230-d2128997958d/lebron-7-media-day-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "48ba8c93-f694-49ce-a230-d2128997958d",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/48ba8c93-f694-49ce-a230-d2128997958d/lebron-7-media-day-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "48ba8c93-f694-49ce-a230-d2128997958d",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": "",
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-02T15:01:34.491Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "48ba8c93-f694-49ce-a230-d2128997958d",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/48ba8c93-f694-49ce-a230-d2128997958d/lebron-7-media-day-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "de473cd7455067757ed12ad1db5711fd67c45307b3b5c14a33fce1c13c9c4fd6"
+                        },
+                        "subType": "image",
+                        "id": "b12017cd-efdd-4d97-96a7-da7e0d025fed",
+                        "type": "card",
+                        "version": "1588431694523",
+                        "properties": {
+                            "portraitId": "00396c4d-4987-4dbc-918c-965c96c5bf28",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/00396c4d-4987-4dbc-918c-965c96c5bf28/lebron-7-media-day-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "00396c4d-4987-4dbc-918c-965c96c5bf28",
+                            "altText": "LeBron 7 'Media Day' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/00396c4d-4987-4dbc-918c-965c96c5bf28/lebron-7-media-day-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/00396c4d-4987-4dbc-918c-965c96c5bf28/lebron-7-media-day-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "00396c4d-4987-4dbc-918c-965c96c5bf28",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/00396c4d-4987-4dbc-918c-965c96c5bf28/lebron-7-media-day-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "00396c4d-4987-4dbc-918c-965c96c5bf28",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/00396c4d-4987-4dbc-918c-965c96c5bf28/lebron-7-media-day-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "00396c4d-4987-4dbc-918c-965c96c5bf28",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": "",
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-02T15:01:34.493Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "00396c4d-4987-4dbc-918c-965c96c5bf28",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/00396c4d-4987-4dbc-918c-965c96c5bf28/lebron-7-media-day-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "39cafa1f4a1dd8e55fee2d1ac0de913c4be77a19fd30af49ed02cda8087a6ede"
+                        },
+                        "subType": "image",
+                        "id": "18316133-13be-4206-91da-7718d920792b",
+                        "type": "card",
+                        "version": "1588431694527",
+                        "properties": {
+                            "portraitId": "c70f6e4f-80f8-4747-afd7-3d9a4dc9345c",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/c70f6e4f-80f8-4747-afd7-3d9a4dc9345c/lebron-7-media-day-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "c70f6e4f-80f8-4747-afd7-3d9a4dc9345c",
+                            "altText": "LeBron 7 'Media Day' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/c70f6e4f-80f8-4747-afd7-3d9a4dc9345c/lebron-7-media-day-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/c70f6e4f-80f8-4747-afd7-3d9a4dc9345c/lebron-7-media-day-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "c70f6e4f-80f8-4747-afd7-3d9a4dc9345c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/c70f6e4f-80f8-4747-afd7-3d9a4dc9345c/lebron-7-media-day-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "c70f6e4f-80f8-4747-afd7-3d9a4dc9345c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/c70f6e4f-80f8-4747-afd7-3d9a4dc9345c/lebron-7-media-day-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "c70f6e4f-80f8-4747-afd7-3d9a4dc9345c",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": "",
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-02T15:01:34.493Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "c70f6e4f-80f8-4747-afd7-3d9a4dc9345c",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/c70f6e4f-80f8-4747-afd7-3d9a4dc9345c/lebron-7-media-day-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "a59cdca1968480c773b6c85fb31d52f22473d517021355c2b73b7004016987fd"
+                        },
+                        "subType": "image",
+                        "id": "5427cbdb-372c-4f68-881a-0de15095dcb4",
+                        "type": "card",
+                        "version": "1588431694514",
+                        "properties": {
+                            "portraitId": "097bd80c-da72-4dfa-a47c-9fdeab1c9dc1",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_sc/w_960,c_limit/097bd80c-da72-4dfa-a47c-9fdeab1c9dc1/lebron-7-media-day-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "097bd80c-da72-4dfa-a47c-9fdeab1c9dc1",
+                            "altText": "LeBron 7 'Media Day' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_pc/w_1536,c_limit/097bd80c-da72-4dfa-a47c-9fdeab1c9dc1/lebron-7-media-day-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_lc/w_1920,c_limit/097bd80c-da72-4dfa-a47c-9fdeab1c9dc1/lebron-7-media-day-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "097bd80c-da72-4dfa-a47c-9fdeab1c9dc1",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_pc/w_1536,c_limit/097bd80c-da72-4dfa-a47c-9fdeab1c9dc1/lebron-7-media-day-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "097bd80c-da72-4dfa-a47c-9fdeab1c9dc1",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_sc/w_960,c_limit/097bd80c-da72-4dfa-a47c-9fdeab1c9dc1/lebron-7-media-day-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "097bd80c-da72-4dfa-a47c-9fdeab1c9dc1",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": "",
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-02T15:01:34.493Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "097bd80c-da72-4dfa-a47c-9fdeab1c9dc1",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_lc/w_1920,c_limit/097bd80c-da72-4dfa-a47c-9fdeab1c9dc1/lebron-7-media-day-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "375c1fd5af33a27e1705610012329b1ec77503a58d184db86268375bee8d0c63"
+                        },
+                        "subType": "image",
+                        "id": "429a2de1-5057-412b-985b-c5502f5964aa",
+                        "type": "card",
+                        "version": "1588431694525",
+                        "properties": {
+                            "portraitId": "a1705151-d4c3-4fce-aeea-627e397d5423",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a1705151-d4c3-4fce-aeea-627e397d5423/lebron-7-media-day-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "a1705151-d4c3-4fce-aeea-627e397d5423",
+                            "altText": "LeBron 7 'Media Day' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a1705151-d4c3-4fce-aeea-627e397d5423/lebron-7-media-day-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a1705151-d4c3-4fce-aeea-627e397d5423/lebron-7-media-day-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "a1705151-d4c3-4fce-aeea-627e397d5423",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a1705151-d4c3-4fce-aeea-627e397d5423/lebron-7-media-day-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "a1705151-d4c3-4fce-aeea-627e397d5423",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a1705151-d4c3-4fce-aeea-627e397d5423/lebron-7-media-day-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "a1705151-d4c3-4fce-aeea-627e397d5423",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": "",
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-02T15:01:34.493Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "a1705151-d4c3-4fce-aeea-627e397d5423",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a1705151-d4c3-4fce-aeea-627e397d5423/lebron-7-media-day-release-date.jpg"
+                            }
+                        }
+                    },
+                    {
+                        "analytics": {
+                            "hashKey": "e6abeaaf7043bf31f98172cfd609bac6846608e0acd9eee0caa4c685fe4844ac"
+                        },
+                        "subType": "image",
+                        "id": "baa88d50-a1a3-44a9-8a74-39c2d634a3ad",
+                        "type": "card",
+                        "version": "1588431694524",
+                        "properties": {
+                            "portraitId": "f3b30a73-a57d-4604-aa67-ed2e557eab53",
+                            "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/f3b30a73-a57d-4604-aa67-ed2e557eab53/lebron-7-media-day-release-date.jpg",
+                            "product": [],
+                            "landscapeId": "f3b30a73-a57d-4604-aa67-ed2e557eab53",
+                            "altText": "LeBron 7 'Media Day' Release Date",
+                            "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/f3b30a73-a57d-4604-aa67-ed2e557eab53/lebron-7-media-day-release-date.jpg",
+                            "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/f3b30a73-a57d-4604-aa67-ed2e557eab53/lebron-7-media-day-release-date.jpg",
+                            "portrait": {
+                                "aspectRatio": 1,
+                                "id": "f3b30a73-a57d-4604-aa67-ed2e557eab53",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/f3b30a73-a57d-4604-aa67-ed2e557eab53/lebron-7-media-day-release-date.jpg"
+                            },
+                            "squarish": {
+                                "aspectRatio": 1,
+                                "id": "f3b30a73-a57d-4604-aa67-ed2e557eab53",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/f3b30a73-a57d-4604-aa67-ed2e557eab53/lebron-7-media-day-release-date.jpg"
+                            },
+                            "title": "",
+                            "squarishId": "f3b30a73-a57d-4604-aa67-ed2e557eab53",
+                            "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                            "richTextLinks": [],
+                            "subtitle": "",
+                            "colorTheme": "dark",
+                            "secondaryPortrait": {
+                                "id": "",
+                                "url": ""
+                            },
+                            "style": {
+                                "defaultStyle": {},
+                                "modifiedDate": "2020-05-02T15:01:34.493Z",
+                                "exposeTemplate": false,
+                                "properties": {
+                                    "actions": {}
+                                },
+                                "resourceType": "content/style"
+                            },
+                            "actions": [],
+                            "landscape": {
+                                "aspectRatio": 1,
+                                "id": "f3b30a73-a57d-4604-aa67-ed2e557eab53",
+                                "type": "product",
+                                "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/f3b30a73-a57d-4604-aa67-ed2e557eab53/lebron-7-media-day-release-date.jpg"
+                            }
+                        }
+                    }
+                ],
+                "subType": "carousel",
+                "id": "cf1c571c-eddf-497e-a362-8100adf7b9e2",
+                "type": "card",
+                "version": "1588431696093",
+                "properties": {
+                    "product": [],
+                    "containerType": "carousel",
+                    "custom": {},
+                    "body": "<p>First unveiled on foot at the 2019-2020 Media day, the iconic LeBron 7 arrives in an all-new purple and gold colorway. Rooted in team heritage, the familiar color scheme takes a unique and modern twist with each bold color on the left and right shoe respectively. The premium upper, coupled with innovative Air, ensures that the silhouette pops on both the hardwood and street.<br>\nSKU: CW2300-500</p>",
+                    "title": "Media Day",
+                    "speed": 6000,
+                    "copyId": "74dbc5ca566c20355d07922675a4bacc6b5f39da",
+                    "loop": false,
+                    "richTextLinks": [],
+                    "subtitle": "LeBron 7",
+                    "colorTheme": "dark",
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-02T15:01:34.597Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "autoPlay": false,
+                    "actions": [
+                        {
+                            "analytics": {
+                                "hashKey": "009e12a78f3f1eeeb7ac29a34223cb2c3a58ca8ab72b675be4a3923c0eca255f"
+                            },
+                            "actionType": "cta_buying_tools",
+                            "product": {
+                                "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                                "styleColor": "CW2300-500"
+                            },
+                            "destination": {
+                                "product": {
+                                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                                    "styleColor": "CW2300-500"
+                                },
+                                "type": "BUYING_TOOLS"
+                            },
+                            "id": "e7c14750-569a-4d16-ad40-4fa9d73cfe6b",
+                            "destinationId": "CW2300-500"
+                        }
+                    ]
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "8df67361a421d53379650e11af885e245c330417a75eb8ff64154652b0a3a9bc"
+                },
+                "subType": "image",
+                "id": "25736aa1-ee6b-40bd-87a5-cb4b09387cbd",
+                "type": "card",
+                "version": "1587592727632",
+                "properties": {
+                    "portraitId": "96d51744-e345-4546-bcf4-4573a22acf54",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "f2c60bba-33b0-4013-8a42-7d04a7d754e5",
+                    "altText": "LeBron 7 'Media Day' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/w_1536,c_limit/96d51744-e345-4546-bcf4-4573a22acf54/lebron-7-media-day-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/w_1920,c_limit/f2c60bba-33b0-4013-8a42-7d04a7d754e5/lebron-7-media-day-release-date.jpg",
+                    "portrait": {
+                        "aspectRatio": 0.66667,
+                        "id": "96d51744-e345-4546-bcf4-4573a22acf54",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/96d51744-e345-4546-bcf4-4573a22acf54/lebron-7-media-day-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": "",
+                        "url": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-04-22T21:58:47.584Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "Y",
+                        "id": "f2c60bba-33b0-4013-8a42-7d04a7d754e5",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/w_1920,c_limit/f2c60bba-33b0-4013-8a42-7d04a7d754e5/lebron-7-media-day-release-date.jpg"
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "e6b79a9126e21a42d1134c625bee0c4d0db44099da329c8da43f5f91e9d73f1b"
+                },
+                "subType": "image",
+                "id": "7993af7e-24f7-4507-b251-5c4dda170b7c",
+                "type": "card",
+                "version": "1587592750032",
+                "properties": {
+                    "portraitId": "3f76ab00-939b-457f-bbff-ce01e5a14249",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "667b66d3-a09f-4ae4-b659-32969c2f3eac",
+                    "altText": "LeBron 7 'Media Day' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/w_1536,c_limit/3f76ab00-939b-457f-bbff-ce01e5a14249/lebron-7-media-day-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/w_1920,c_limit/667b66d3-a09f-4ae4-b659-32969c2f3eac/lebron-7-media-day-release-date.jpg",
+                    "portrait": {
+                        "aspectRatio": 0.66667,
+                        "id": "3f76ab00-939b-457f-bbff-ce01e5a14249",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/3f76ab00-939b-457f-bbff-ce01e5a14249/lebron-7-media-day-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": "",
+                        "url": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-04-22T21:59:09.913Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "U",
+                        "id": "667b66d3-a09f-4ae4-b659-32969c2f3eac",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/w_1920,c_limit/667b66d3-a09f-4ae4-b659-32969c2f3eac/lebron-7-media-day-release-date.jpg"
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "3590960a4a168b6f8ab7d586f1545c9f5aa93c2cc7786bb82fd7aab744d1c443"
+                },
+                "subType": "image",
+                "id": "3d259ee0-d8ae-4c82-8872-971ac0fe6096",
+                "type": "card",
+                "version": "1587592907170",
+                "properties": {
+                    "portraitId": "e45a0e96-fbc9-4c0f-b69e-2302f6b752eb",
+                    "squarishURL": "",
+                    "product": [],
+                    "landscapeId": "194f4e3d-6294-4ac4-8f5a-92d0f5b27414",
+                    "altText": "LeBron 7 'Media Day' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/w_1536,c_limit/e45a0e96-fbc9-4c0f-b69e-2302f6b752eb/lebron-7-media-day-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/w_1920,c_limit/194f4e3d-6294-4ac4-8f5a-92d0f5b27414/lebron-7-media-day-release-date.jpg",
+                    "portrait": {
+                        "aspectRatio": 0.66667,
+                        "id": "e45a0e96-fbc9-4c0f-b69e-2302f6b752eb",
+                        "type": "editorial",
+                        "url": "https://static.nike.com/a/images/w_1536,c_limit/e45a0e96-fbc9-4c0f-b69e-2302f6b752eb/lebron-7-media-day-release-date.jpg"
+                    },
+                    "squarish": {
+                        "id": "",
+                        "url": ""
+                    },
+                    "title": "",
+                    "squarishId": "",
+                    "copyId": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+                    "richTextLinks": [],
+                    "subtitle": "",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-04-22T22:01:47.020Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "Z",
+                        "id": "194f4e3d-6294-4ac4-8f5a-92d0f5b27414",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/w_1920,c_limit/194f4e3d-6294-4ac4-8f5a-92d0f5b27414/lebron-7-media-day-release-date.jpg"
+                    }
+                }
+            },
+            {
+                "analytics": {
+                    "hashKey": "dc989a4242c43212ff9c2bdf0c8f066e8618c287f1f71ce104f4cfbb6c70ea43"
+                },
+                "subType": "image",
+                "id": "3b363be0-23dd-4832-bdd8-7034d7227e44",
+                "type": "card",
+                "version": "1588431694522",
+                "properties": {
+                    "portraitId": "454cdcb1-5f59-4f33-8cf4-07b3b81b2d63",
+                    "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/454cdcb1-5f59-4f33-8cf4-07b3b81b2d63/lebron-7-media-day-release-date.jpg",
+                    "product": [],
+                    "landscapeId": "454cdcb1-5f59-4f33-8cf4-07b3b81b2d63",
+                    "altText": "LeBron 7 'Media Day' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/454cdcb1-5f59-4f33-8cf4-07b3b81b2d63/lebron-7-media-day-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/454cdcb1-5f59-4f33-8cf4-07b3b81b2d63/lebron-7-media-day-release-date.jpg",
+                    "portrait": {
+                        "view": "A",
+                        "id": "454cdcb1-5f59-4f33-8cf4-07b3b81b2d63",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/454cdcb1-5f59-4f33-8cf4-07b3b81b2d63/lebron-7-media-day-release-date.jpg"
+                    },
+                    "squarish": {
+                        "view": "A",
+                        "id": "454cdcb1-5f59-4f33-8cf4-07b3b81b2d63",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/454cdcb1-5f59-4f33-8cf4-07b3b81b2d63/lebron-7-media-day-release-date.jpg"
+                    },
+                    "title": "Media Day",
+                    "squarishId": "454cdcb1-5f59-4f33-8cf4-07b3b81b2d63",
+                    "copyId": "4a03fb00ceb17f154923555abc66b39ff6965030",
+                    "richTextLinks": [],
+                    "subtitle": "Big Kids' LeBron 7",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-02T15:01:34.491Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [
+                        {
+                            "analytics": {
+                                "hashKey": "7fb595227b7155f002bc59f9fd5b3883942b666adfa1c5c060520abb988378d2"
+                            },
+                            "actionType": "cta_buying_tools",
+                            "product": {
+                                "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                                "styleColor": "DA3203-500"
+                            },
+                            "destination": {
+                                "product": {
+                                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                                    "styleColor": "DA3203-500"
+                                },
+                                "type": "BUYING_TOOLS"
+                            },
+                            "id": "9a8a44c3-70db-4b25-a250-be77ba3b35ff",
+                            "destinationId": "DA3203-500"
+                        }
+                    ],
+                    "landscape": {
+                        "view": "A",
+                        "id": "454cdcb1-5f59-4f33-8cf4-07b3b81b2d63",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/454cdcb1-5f59-4f33-8cf4-07b3b81b2d63/lebron-7-media-day-release-date.jpg"
+                    }
+                }
+            }
+        ],
+        "properties": {
+            "publish": {
+                "collections": [
+                    "d879aa85-698c-41a1-b066-a8ecdf6b8a9c"
+                ]
+            },
+            "custom": {
+                "hideFromUpcoming": [
+                    {
+                        "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                        "styleColor": "DA3203-500"
+                    }
+                ]
+            },
+            "threadType": "multi_product",
+            "title": "LeBron 7",
+            "seo": {
+                "keywords": "",
+                "description": "Explore and buy the LeBron 7 'Media Day'. Stay a step ahead of the latest sneaker launches and drops.",
+                "doNotIndex": false,
+                "title": "LeBron 7 'Media Day' Release Date",
+                "slug": "lebron-7-media-day"
+            },
+            "coverCard": {
+                "analytics": {
+                    "hashKey": "f4890931d2ddbc79d964ceaeed239f328a256617401e8fbdc09845a07e225191"
+                },
+                "subType": "image",
+                "id": "5a6968c7-9506-484f-ae95-e627dbcb2ea4",
+                "type": "card",
+                "version": "1588431694409",
+                "properties": {
+                    "portraitId": "a081ae68-3107-4000-85ce-e9c2393be0f2",
+                    "squarishURL": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a081ae68-3107-4000-85ce-e9c2393be0f2/lebron-7-media-day-release-date.jpg",
+                    "product": [],
+                    "landscapeId": "a081ae68-3107-4000-85ce-e9c2393be0f2",
+                    "altText": "LeBron 7 'Media Day' Release Date",
+                    "portraitURL": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a081ae68-3107-4000-85ce-e9c2393be0f2/lebron-7-media-day-release-date.jpg",
+                    "custom": {},
+                    "landscapeURL": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a081ae68-3107-4000-85ce-e9c2393be0f2/lebron-7-media-day-release-date.jpg",
+                    "portrait": {
+                        "view": "A",
+                        "id": "a081ae68-3107-4000-85ce-e9c2393be0f2",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ps/w_1536,c_limit/a081ae68-3107-4000-85ce-e9c2393be0f2/lebron-7-media-day-release-date.jpg"
+                    },
+                    "squarish": {
+                        "view": "A",
+                        "id": "a081ae68-3107-4000-85ce-e9c2393be0f2",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ss/w_960,c_limit/a081ae68-3107-4000-85ce-e9c2393be0f2/lebron-7-media-day-release-date.jpg"
+                    },
+                    "title": "Media Day",
+                    "squarishId": "a081ae68-3107-4000-85ce-e9c2393be0f2",
+                    "copyId": "1a02110ae78089fc53e410635b78e5726aea11cc",
+                    "richTextLinks": [],
+                    "subtitle": "LeBron 7",
+                    "colorTheme": "dark",
+                    "secondaryPortrait": {
+                        "id": ""
+                    },
+                    "style": {
+                        "defaultStyle": {},
+                        "modifiedDate": "2020-05-02T15:01:34.379Z",
+                        "exposeTemplate": false,
+                        "properties": {
+                            "actions": {}
+                        },
+                        "resourceType": "content/style"
+                    },
+                    "actions": [],
+                    "landscape": {
+                        "view": "A",
+                        "id": "a081ae68-3107-4000-85ce-e9c2393be0f2",
+                        "type": "product",
+                        "url": "https://static.nike.com/a/images/t_prod_ls/w_1920,c_limit/a081ae68-3107-4000-85ce-e9c2393be0f2/lebron-7-media-day-release-date.jpg"
+                    }
+                }
+            },
+            "products": [
+                {
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "styleColor": "CW2300-500"
+                },
+                {
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "styleColor": "DA3203-500"
+                }
+            ]
+        }
+    },
+    "productInfo": [
+        {
+            "merchProduct": {
+                "id": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                "snapshotId": "e8de3eff-782b-4c08-a01b-5ac31f834097",
+                "modificationDate": "2020-05-05T17:10:53.296Z",
+                "status": "HOLD",
+                "merchGroup": "US",
+                "styleCode": "DA3203",
+                "colorCode": "500",
+                "styleColor": "DA3203-500",
+                "pid": "12987872",
+                "catalogId": "e05667af-c437-3420-9910-4685aaa0632e",
+                "productGroupId": "12989610",
+                "brand": "Nike Sportswear",
+                "channels": [
+                    "SNKRS",
+                    "Nike Store Experiences"
+                ],
+                "consumerChannels": [
+                    {
+                        "id": "008be467-6c78-4079-94f0-70e2d6cc4003",
+                        "resourceType": "globalization/consumer_channels"
+                    },
+                    {
+                        "id": "16134d36-74f2-11ea-bc55-00242ac13000",
+                        "resourceType": "globalization/consumer_channels"
+                    }
+                ],
+                "legacyCatalogIds": [
+                    "1"
+                ],
+                "genders": [
+                    "BOYS",
+                    "KIDS"
+                ],
+                "sizeConverterId": "b3b43aee-acb2-3836-9cc6-9cdaf42a68af",
+                "valueAddedServices": [
+                    {
+                        "id": "0cba9a6c-ac96-5e0a-8bd9-0d31d5095a7c",
+                        "vasType": "GIFT_MESSAGE"
+                    },
+                    {
+                        "id": "3d62c037-56f3-59d5-81d3-88ce17f7fb99",
+                        "vasType": "GIFT_WRAP"
+                    }
+                ],
+                "sportTags": [
+                    "Lifestyle"
+                ],
+                "classificationConcepts": [],
+                "taxonomyAttributes": [
+                    {
+                        "resourceType": "merch/taxonomy_attributes",
+                        "ids": [
+                            "46e5711b-aed3-424d-80a3-03ecbeab13db",
+                            "5e3a7953-7afc-4afc-8de0-af5cee16b3a3",
+                            "16633190-45e5-4830-a068-232ac7aea82c",
+                            "9e5e6948-8820-4a24-a4d3-01cdb5dc8291",
+                            "b6a0100d-37ee-4b4f-b0f9-c05b2d698409",
+                            "efc99096-767d-40d9-a954-019b35858310",
+                            "5ddfb803-2f11-4265-84b2-f7f450f0b697",
+                            "05392778-fff6-4fa0-a375-2506d27f009e",
+                            "97a10d31-545b-46d9-ad76-8b4801dd7766",
+                            "60c56877-b0c6-41e2-a3e8-eabe060dbc9e",
+                            "193af413-39b0-4d7e-ae34-558821381d3f"
+                        ]
+                    }
+                ],
+                "commerceCountryInclusions": [],
+                "commerceCountryExclusions": [],
+                "abTestValues": [],
+                "productRollup": {
+                    "type": "Standard",
+                    "key": "C5zN95"
+                },
+                "quantityLimit": 1,
+                "styleType": "INLINE",
+                "productType": "FOOTWEAR",
+                "publishType": "LAUNCH",
+                "mainColor": true,
+                "isImageAvailable": true,
+                "isCopyAvailable": false,
+                "isAttributionApproved": true,
+                "exclusiveAccess": false,
+                "hardLaunch": true,
+                "hideFromCSR": true,
+                "hideFromSearch": true,
+                "commercePublishDate": "2020-05-16T07:00:00.000Z",
+                "commerceStartDate": "2020-12-31T15:00:00.000Z",
+                "resourceType": "merchProduct",
+                "links": {
+                    "self": {
+                        "ref": "/merch/products/v2/cb79a29f-7e6c-5925-9b19-1eba583c4f95"
+                    }
+                }
+            },
+            "merchPrice": {
+                "id": "8a8de0b6-e93b-5f9b-9205-53e8fcc2188b",
+                "snapshotId": "f3e04824-015e-4866-b398-68994a08a705",
+                "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                "parentType": "merchProduct",
+                "modificationDate": "2020-05-01T17:52:31.082Z",
+                "country": "US",
+                "msrp": 155,
+                "fullPrice": 155,
+                "currentPrice": 155,
+                "currency": "USD",
+                "discounted": false,
+                "promoInclusions": [],
+                "promoExclusions": [
+                    "TRUE"
+                ],
+                "resourceType": "merchPrice",
+                "links": {
+                    "self": {
+                        "ref": "/merch/prices/v2/8a8de0b6-e93b-5f9b-9205-53e8fcc2188b"
+                    }
+                }
+            },
+            "availability": {
+                "id": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                "resourceType": "availableProducts",
+                "links": {
+                    "self": {
+                        "ref": "/deliver/available_products/v1/cb79a29f-7e6c-5925-9b19-1eba583c4f95"
+                    }
+                },
+                "available": true
+            },
+            "launchView": {
+                "id": "f7bd439f-c2fa-4bd7-b7a1-dae5d74a24ba",
+                "resourceType": "launchview",
+                "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                "method": "LEO",
+                "paymentMethod": "PREPAY",
+                "startEntryDate": "2020-05-16T14:00:00.000Z",
+                "links": {
+                    "self": {
+                        "ref": "/launch/launch_views/v2/f7bd439f-c2fa-4bd7-b7a1-dae5d74a24ba"
+                    }
+                }
+            },
+            "productContent": {
+                "globalPid": "12987872",
+                "langLocale": "en_US",
+                "colorDescription": "Court Purple/Amarillo/White",
+                "slug": "lebron-7-big-kids-shoe",
+                "fullTitle": "LeBron 7 Big Kids' Shoe",
+                "title": "LeBron 7",
+                "subtitle": "Big Kids' Shoe",
+                "descriptionHeading": "REP LEBRON IN THE KING'S STYLE.",
+                "description": "<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>REP LEBRON IN THE KING'S STYLE.</b></p><br><p>Unlock your potential in the LeBron 7. The full-length Max Air unit brings you a cushioned jumpstart and shock absorption as you power up for the rebound. It&#39;s the seventh signature shoe in the legendary series, scaled down for small &#39;Brons.</p><br><p><b>Benefits</b></p><ul><li>Max Air cushioning gives impact absorption and responsiveness.</li><li>An inner sleeve wraps around your foot for a secure feel.</li><li>Leather and textile upper provides durability for everyday play.</li></ul></div></div>",
+                "techSpec": "",
+                "manufacturingCountriesOfOrigin": [],
+                "sizeChart": "kids-shoe-sizing-chart",
+                "colors": [
+                    {
+                        "type": "SIMPLE",
+                        "name": "Purple",
+                        "hex": "472B7E"
+                    },
+                    {
+                        "type": "PRIMARY",
+                        "name": "Court Purple",
+                        "hex": "43376B"
+                    },
+                    {
+                        "type": "SECONDARY",
+                        "name": "Amarillo",
+                        "hex": "F3C839"
+                    },
+                    {
+                        "type": "LOGO",
+                        "name": "White",
+                        "hex": "FFFFFF"
+                    }
+                ],
+                "bestFor": [],
+                "athletes": [
+                    {
+                        "value": "LeBron James",
+                        "localizedValue": "LeBron James"
+                    }
+                ],
+                "widths": [
+                    {
+                        "value": "REGULAR",
+                        "localizedValue": "Regular"
+                    }
+                ]
+            },
+            "imageUrls": {
+                "productImageUrl": "https://secure-images.nike.com/is/image/DotCom/DA3203_500"
+            },
+            "skus": [
+                {
+                    "id": "2287b197-a6b0-5c73-8e44-21cdf6c0bb1d",
+                    "snapshotId": "a82b9a97-3a20-43b1-9095-7c5ee15a8937",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "e022aaf0-4b25-3436-86ec-e99c789a22cc",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308615",
+                    "gtin": "00194496185836",
+                    "nikeSize": "3.5Y",
+                    "sizeConversionId": "8ea6c16e-f6b0-3d97-b5f3-6aa43b284606",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "3.5Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/2287b197-a6b0-5c73-8e44-21cdf6c0bb1d?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "4795af1e-32d7-593a-a6b4-b2a433034caf",
+                    "snapshotId": "1994d569-5069-4748-8bd0-f4dc9e142df5",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "15235f78-d457-3ff2-8a79-d288a8a178da",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308617",
+                    "gtin": "00194496185843",
+                    "nikeSize": "4Y",
+                    "sizeConversionId": "ea55d242-49a2-365f-a787-c1441cb923a1",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "4Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/4795af1e-32d7-593a-a6b4-b2a433034caf?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "e14e7691-dfb3-563e-ae7d-166b11114a35",
+                    "snapshotId": "f89d9d1c-210c-4a24-a533-5175ce2f0b61",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "9c504706-a361-3778-8de9-1827a8064236",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308616",
+                    "gtin": "00194496185850",
+                    "nikeSize": "4.5Y",
+                    "sizeConversionId": "c127ed8e-8dbf-3431-96f5-de3a13f2d6ae",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "4.5Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/e14e7691-dfb3-563e-ae7d-166b11114a35?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "55ad8838-e624-5ac3-8a47-447ff5ac77f4",
+                    "snapshotId": "e92901a4-3aea-49f8-a6bf-60a955e2b6f5",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "ba87585c-adaf-383e-8000-a8ee626c495a",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308619",
+                    "gtin": "00194496185867",
+                    "nikeSize": "5Y",
+                    "sizeConversionId": "2ebb4084-997f-3132-80b8-27ca8c4a28e2",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "5Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/55ad8838-e624-5ac3-8a47-447ff5ac77f4?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "70c0fe86-7288-53eb-8c2b-649572bd951a",
+                    "snapshotId": "2c06f0c4-92ff-4cfe-abe2-778086c2f04c",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "048844c4-1181-34ce-a408-1873fadd7983",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308618",
+                    "gtin": "00194496185874",
+                    "nikeSize": "5.5Y",
+                    "sizeConversionId": "874c1b37-3950-3f8f-85d0-7be4abed1b08",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "5.5Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/70c0fe86-7288-53eb-8c2b-649572bd951a?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "a916aa9a-8f43-5e67-80a3-53e69d0e70ca",
+                    "snapshotId": "1e548018-f92b-4ba5-8cdf-54464bc6fdc3",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "f54ae849-e3a7-3212-8ee5-b0997309df11",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308613",
+                    "gtin": "00194496185881",
+                    "nikeSize": "6Y",
+                    "sizeConversionId": "8cae4e37-f0f7-3a76-aab7-7097c885ba86",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "6Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/a916aa9a-8f43-5e67-80a3-53e69d0e70ca?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "226705ad-0edf-5f20-8eeb-af2c2cc7d0c1",
+                    "snapshotId": "31dcd7a7-9e1a-4a0e-8a59-1bbe37f5b9a9",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "42f6f914-83ee-36a3-bbe6-915d80c89c93",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308612",
+                    "gtin": "00194496185898",
+                    "nikeSize": "6.5Y",
+                    "sizeConversionId": "a07c7265-75d7-35a4-a274-ffc9bcf63c4a",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "6.5Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/226705ad-0edf-5f20-8eeb-af2c2cc7d0c1?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "8c1ef330-0aef-51a5-a980-3071bd4d7787",
+                    "snapshotId": "07e812f5-5f95-49b0-9594-2144c4873720",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "0adb65b4-55a3-3448-9597-415d199eed8b",
+                    "modificationDate": "2020-04-20T00:22:46.190Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25308614",
+                    "gtin": "00194496185904",
+                    "nikeSize": "7Y",
+                    "sizeConversionId": "c0a38665-dc50-3dc2-ab70-2ec907e51f57",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "7Y",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/8c1ef330-0aef-51a5-a980-3071bd4d7787?country=US?language=en"
+                        }
+                    }
+                }
+            ],
+            "availableSkus": [
+                {
+                    "id": "2287b197-a6b0-5c73-8e44-21cdf6c0bb1d",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/2287b197-a6b0-5c73-8e44-21cdf6c0bb1d"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "2287b197-a6b0-5c73-8e44-21cdf6c0bb1d"
+                },
+                {
+                    "id": "4795af1e-32d7-593a-a6b4-b2a433034caf",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/4795af1e-32d7-593a-a6b4-b2a433034caf"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "4795af1e-32d7-593a-a6b4-b2a433034caf"
+                },
+                {
+                    "id": "e14e7691-dfb3-563e-ae7d-166b11114a35",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/e14e7691-dfb3-563e-ae7d-166b11114a35"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "e14e7691-dfb3-563e-ae7d-166b11114a35"
+                },
+                {
+                    "id": "55ad8838-e624-5ac3-8a47-447ff5ac77f4",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/55ad8838-e624-5ac3-8a47-447ff5ac77f4"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "55ad8838-e624-5ac3-8a47-447ff5ac77f4"
+                },
+                {
+                    "id": "70c0fe86-7288-53eb-8c2b-649572bd951a",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/70c0fe86-7288-53eb-8c2b-649572bd951a"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "70c0fe86-7288-53eb-8c2b-649572bd951a"
+                },
+                {
+                    "id": "a916aa9a-8f43-5e67-80a3-53e69d0e70ca",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/a916aa9a-8f43-5e67-80a3-53e69d0e70ca"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "a916aa9a-8f43-5e67-80a3-53e69d0e70ca"
+                },
+                {
+                    "id": "226705ad-0edf-5f20-8eeb-af2c2cc7d0c1",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/226705ad-0edf-5f20-8eeb-af2c2cc7d0c1"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "226705ad-0edf-5f20-8eeb-af2c2cc7d0c1"
+                },
+                {
+                    "id": "8c1ef330-0aef-51a5-a980-3071bd4d7787",
+                    "productId": "cb79a29f-7e6c-5925-9b19-1eba583c4f95",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/8c1ef330-0aef-51a5-a980-3071bd4d7787"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "8c1ef330-0aef-51a5-a980-3071bd4d7787"
+                }
+            ],
+            "socialInterest": {
+                "id": "98484776-3fd2-3cd8-a81e-5545aa54a78f"
+            }
+        },
+        {
+            "merchProduct": {
+                "id": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                "snapshotId": "44a57aa8-9b8c-48cb-b5a8-c72ef1cb28b2",
+                "modificationDate": "2020-05-05T16:01:46.473Z",
+                "status": "HOLD",
+                "merchGroup": "US",
+                "styleCode": "CW2300",
+                "colorCode": "500",
+                "styleColor": "CW2300-500",
+                "pid": "12971729",
+                "catalogId": "0ac44692-7862-316d-92af-dafe850b8940",
+                "productGroupId": "13085743",
+                "brand": "Nike Sportswear",
+                "channels": [
+                    "SNKRS",
+                    "Nike Store Experiences"
+                ],
+                "consumerChannels": [
+                    {
+                        "id": "008be467-6c78-4079-94f0-70e2d6cc4003",
+                        "resourceType": "globalization/consumer_channels"
+                    },
+                    {
+                        "id": "16134d36-74f2-11ea-bc55-00242ac13000",
+                        "resourceType": "globalization/consumer_channels"
+                    }
+                ],
+                "legacyCatalogIds": [
+                    "1"
+                ],
+                "genders": [
+                    "MEN",
+                    "WOMEN"
+                ],
+                "sizeConverterId": "039e158b-01b1-3780-aa2f-d4ac5c02ebcd",
+                "valueAddedServices": [
+                    {
+                        "id": "0cba9a6c-ac96-5e0a-8bd9-0d31d5095a7c",
+                        "vasType": "GIFT_MESSAGE"
+                    },
+                    {
+                        "id": "3d62c037-56f3-59d5-81d3-88ce17f7fb99",
+                        "vasType": "GIFT_WRAP"
+                    }
+                ],
+                "sportTags": [
+                    "Lifestyle"
+                ],
+                "classificationConcepts": [],
+                "taxonomyAttributes": [
+                    {
+                        "resourceType": "merch/taxonomy_attributes",
+                        "ids": [
+                            "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+                            "7baf216c-acc6-4452-9e07-39c2ca77ba32",
+                            "16633190-45e5-4830-a068-232ac7aea82c",
+                            "9e5e6948-8820-4a24-a4d3-01cdb5dc8291",
+                            "b6a0100d-37ee-4b4f-b0f9-c05b2d698409",
+                            "5ddfb803-2f11-4265-84b2-f7f450f0b697",
+                            "05392778-fff6-4fa0-a375-2506d27f009e",
+                            "2797eaa0-4166-486e-96d1-95ad2495b58d",
+                            "d3c9a610-cfd2-42bb-95d1-15fd6e2f8283",
+                            "60c56877-b0c6-41e2-a3e8-eabe060dbc9e",
+                            "193af413-39b0-4d7e-ae34-558821381d3f"
+                        ]
+                    }
+                ],
+                "commerceCountryInclusions": [],
+                "commerceCountryExclusions": [],
+                "abTestValues": [],
+                "productRollup": {
+                    "type": "Standard",
+                    "key": "3cbf5k"
+                },
+                "quantityLimit": 1,
+                "styleType": "INLINE",
+                "productType": "FOOTWEAR",
+                "publishType": "LAUNCH",
+                "mainColor": true,
+                "isImageAvailable": true,
+                "isCopyAvailable": false,
+                "isAttributionApproved": true,
+                "exclusiveAccess": false,
+                "hardLaunch": true,
+                "hideFromCSR": true,
+                "hideFromSearch": true,
+                "commercePublishDate": "2020-05-16T07:00:00.000Z",
+                "commerceStartDate": "2020-12-31T15:00:00.000Z",
+                "resourceType": "merchProduct",
+                "links": {
+                    "self": {
+                        "ref": "/merch/products/v2/9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8"
+                    }
+                }
+            },
+            "merchPrice": {
+                "id": "137e6c6f-5a80-5e23-9549-6ffd0e35c62e",
+                "snapshotId": "d2bc62cc-25b1-4e0b-bc59-275855f7be71",
+                "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                "parentType": "merchProduct",
+                "modificationDate": "2020-05-01T17:52:31.789Z",
+                "country": "US",
+                "msrp": 200,
+                "fullPrice": 200,
+                "currentPrice": 200,
+                "currency": "USD",
+                "discounted": false,
+                "promoInclusions": [],
+                "promoExclusions": [
+                    "TRUE"
+                ],
+                "resourceType": "merchPrice",
+                "links": {
+                    "self": {
+                        "ref": "/merch/prices/v2/137e6c6f-5a80-5e23-9549-6ffd0e35c62e"
+                    }
+                }
+            },
+            "availability": {
+                "id": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                "resourceType": "availableProducts",
+                "links": {
+                    "self": {
+                        "ref": "/deliver/available_products/v1/9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8"
+                    }
+                },
+                "available": true
+            },
+            "launchView": {
+                "id": "37219f83-935c-4b0c-9bdd-95157ba1c6c1",
+                "resourceType": "launchview",
+                "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                "method": "LEO",
+                "paymentMethod": "PREPAY",
+                "startEntryDate": "2020-05-16T14:00:00.000Z",
+                "links": {
+                    "self": {
+                        "ref": "/launch/launch_views/v2/37219f83-935c-4b0c-9bdd-95157ba1c6c1"
+                    }
+                }
+            },
+            "productContent": {
+                "globalPid": "12971729",
+                "langLocale": "en_US",
+                "colorDescription": "Court Purple/Amarillo/White",
+                "slug": "lebron-7-mens-shoe",
+                "fullTitle": "LeBron 7 Men's Shoe",
+                "title": "LeBron 7",
+                "subtitle": "Men's Shoe",
+                "descriptionHeading": "MADE FOR A KING.",
+                "description": "<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>MADE FOR A KING.</b></p><br><p>Make your head-turning journey to the top comfortable. Built strong and sleek, the LeBron 7 features a mix of materials on the upper for a look that lasts. The purple and yellow nod to his L.A. endeavors, while metal accents and LeBron crests celebrate the king. Full-length Air cushioning graces your every step.</p><br><p><b>Clutch Cushioning</b></p><p>Max Air technology is Nike Basketball&#39;s largest Air unit to date. It runs the full length of the shoe, delivering responsive cushioning for the court. A foam midsole adds plush comfort during possessions.</p><br><p><b>Rep LBJ</b></p><p>Bold accents reflect Los Angele&#39;s yellow and purple hues. Metal details and LeBron&#39;s signature crest honor one of the game&#39;s fiercest competitors.</p><br><p><b>Court-Ready Traction</b></p><p>A rubber outsole offers traction and durability to help you make quick cuts in and out of the paint. It uses bi-colored details that mimic the upper for a unified look.</p><br><p><b>More Benefits</b></p><ul><li>Leather in the upper for a premium look and feel.</li><li>Padded collar for a soft, comfortable feel.</li></ul><br><p><b>Product Details</b></p><ul><li>Plush foam insole</li><li>Leather and textile materials in upper</li></ul></div></div>",
+                "techSpec": "",
+                "manufacturingCountriesOfOrigin": [],
+                "sizeChart": "unisex-shoe-sizing-chart",
+                "colors": [
+                    {
+                        "type": "SIMPLE",
+                        "name": "Purple",
+                        "hex": "472B7E"
+                    },
+                    {
+                        "type": "PRIMARY",
+                        "name": "Court Purple",
+                        "hex": "43376B"
+                    },
+                    {
+                        "type": "SECONDARY",
+                        "name": "Amarillo",
+                        "hex": "F3C839"
+                    },
+                    {
+                        "type": "LOGO",
+                        "name": "White",
+                        "hex": "FFFFFF"
+                    }
+                ],
+                "bestFor": [],
+                "athletes": [
+                    {
+                        "value": "LeBron James",
+                        "localizedValue": "LeBron James"
+                    }
+                ],
+                "widths": [
+                    {
+                        "value": "REGULAR",
+                        "localizedValue": "Regular"
+                    }
+                ]
+            },
+            "imageUrls": {
+                "productImageUrl": "https://secure-images.nike.com/is/image/DotCom/CW2300_500"
+            },
+            "skus": [
+                {
+                    "id": "36647c8b-3981-518a-aa33-9662e4451a69",
+                    "snapshotId": "f18baf64-0df9-4262-b165-6073d0d71c37",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "d9a6a84a-bf9d-3917-b1af-537a1674d30e",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198261",
+                    "gtin": "00194495919654",
+                    "nikeSize": "6",
+                    "sizeConversionId": "2443afcf-9172-3071-b8f5-c749f899026c",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 6 / W 7.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/36647c8b-3981-518a-aa33-9662e4451a69?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "0d920774-ff1b-5168-aa79-c404ab32dd8e",
+                    "snapshotId": "3a1796ed-5edc-4d3c-ad6d-b65cefc87908",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "4af6520f-ea20-3ddf-b2e0-c8fa60e0c426",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198268",
+                    "gtin": "00194495919661",
+                    "nikeSize": "6.5",
+                    "sizeConversionId": "489c797e-8a71-3dad-8861-7006ad9c36b2",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 6.5 / W 8",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/0d920774-ff1b-5168-aa79-c404ab32dd8e?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "139d8fba-f71a-5239-a66b-295007914797",
+                    "snapshotId": "17497127-5606-4154-866d-0e28b9b9d7b0",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "e7c3316c-d9d6-3ab5-b8d5-033fdf4688b3",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198260",
+                    "gtin": "00194495919678",
+                    "nikeSize": "7",
+                    "sizeConversionId": "d23dd206-e459-3d50-b3fe-5ca4426137d3",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 7 / W 8.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/139d8fba-f71a-5239-a66b-295007914797?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "f0e1f381-008a-58bb-b271-e84b9e2c3d10",
+                    "snapshotId": "41531adc-b0cc-4734-844b-daae7fd568be",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "2aecbd76-0ce7-38e0-afc2-63740fbe173b",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198266",
+                    "gtin": "00194495919685",
+                    "nikeSize": "7.5",
+                    "sizeConversionId": "f5cdf573-63b1-3d72-bc11-e4173c20c09f",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 7.5 / W 9",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/f0e1f381-008a-58bb-b271-e84b9e2c3d10?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "aa78b083-1b6a-59d1-9762-e25af0b44669",
+                    "snapshotId": "0ac137d1-5523-49e4-801b-714e220cf7b0",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "5e233d62-4d7f-36e2-83d1-e804a0f6460e",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198259",
+                    "gtin": "00194495919692",
+                    "nikeSize": "8",
+                    "sizeConversionId": "7abdd901-856d-3601-94bf-14313cee8354",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 8 / W 9.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/aa78b083-1b6a-59d1-9762-e25af0b44669?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "f6d7d69a-1b18-5eb9-b906-e0e18dd15cd7",
+                    "snapshotId": "ef0bd546-ab0e-4042-8d92-de12ae85295d",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "691fb891-fd5f-3958-a977-52453bbcf99c",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198264",
+                    "gtin": "00194495919708",
+                    "nikeSize": "8.5",
+                    "sizeConversionId": "c030f969-024a-3791-83ac-6e505b324861",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 8.5 / W 10",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/f6d7d69a-1b18-5eb9-b906-e0e18dd15cd7?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "bd06649a-5fa0-5b6f-93c7-f48821321e06",
+                    "snapshotId": "9fab8b81-e51b-4956-bb70-6578c9183f35",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "31faaa63-b6f5-3908-afbc-652feac9de8c",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198258",
+                    "gtin": "00194495919715",
+                    "nikeSize": "9",
+                    "sizeConversionId": "0a937561-8633-3ea1-8ae3-8509f50f4127",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 9 / W 10.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/bd06649a-5fa0-5b6f-93c7-f48821321e06?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "e305747a-fc8a-595e-b86d-ed13865e1119",
+                    "snapshotId": "57fa265d-7232-4034-918e-41a00aec9936",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "383e8305-a33c-3fa0-8e54-fde2a4968272",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198262",
+                    "gtin": "00194495919722",
+                    "nikeSize": "9.5",
+                    "sizeConversionId": "618e0e56-f642-3b7e-b1a9-1ec3d14a4bb0",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 9.5 / W 11",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/e305747a-fc8a-595e-b86d-ed13865e1119?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "ce47c5bc-446c-56c8-9d36-5476904f34c2",
+                    "snapshotId": "497c1c60-fda1-4547-bb1f-54d287e767d6",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "381eb932-e768-3b3e-ba43-3aab30d0c678",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198271",
+                    "gtin": "00194495919739",
+                    "nikeSize": "10",
+                    "sizeConversionId": "01097ea6-0c27-3c83-91eb-d7757ac196e3",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 10 / W 11.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/ce47c5bc-446c-56c8-9d36-5476904f34c2?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "0acf2306-d2a1-5220-9107-ac0b5ecfce4f",
+                    "snapshotId": "75de1a77-c490-4cd7-b8c3-21bb0a2ae1cc",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "9f98485a-bfe6-3a70-9143-6f4ed673e6ea",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198274",
+                    "gtin": "00194495919746",
+                    "nikeSize": "10.5",
+                    "sizeConversionId": "7af3d3c5-a8cf-39aa-a8da-e5ec24c016de",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 10.5 / W 12",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/0acf2306-d2a1-5220-9107-ac0b5ecfce4f?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "fb096256-39a1-5f6f-83a3-2970a2018b31",
+                    "snapshotId": "8188ca01-7a9f-45d5-9291-09b0ce651ecd",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "54fc131d-ea88-37bf-824f-99ad7a242414",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198270",
+                    "gtin": "00194495919753",
+                    "nikeSize": "11",
+                    "sizeConversionId": "7cf5846a-5c1e-3be6-bbff-74de4f88e7f0",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 11 / W 12.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/fb096256-39a1-5f6f-83a3-2970a2018b31?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "1d30a357-1217-57d6-b7df-675a466f0f27",
+                    "snapshotId": "a05cbf28-066c-4e7c-a73c-8e72f1b8cdbc",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "dc07118e-68f9-38cf-b518-aa8c95f600be",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198273",
+                    "gtin": "00194495919760",
+                    "nikeSize": "11.5",
+                    "sizeConversionId": "7a223c0d-276a-3ce4-ade6-cc5c8d636bfa",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 11.5 / W 13",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/1d30a357-1217-57d6-b7df-675a466f0f27?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "07f6480d-bc89-5762-990f-8d35932b4685",
+                    "snapshotId": "e5fc5cae-1684-4add-a382-d470d4cc9ce5",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "74874a03-387c-3b18-bf61-96200345b291",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198269",
+                    "gtin": "00194495919777",
+                    "nikeSize": "12",
+                    "sizeConversionId": "ce920033-3ed0-3855-a3d9-e82dde5776c7",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 12 / W 13.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/07f6480d-bc89-5762-990f-8d35932b4685?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "f6720f35-27ba-5aac-b111-e5a6f3dfa20b",
+                    "snapshotId": "ecd98fca-577f-4dd4-9ce2-469f71b4b669",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "58a2ae68-c8f7-3a76-b6ad-28a4bf298b66",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198272",
+                    "gtin": "00194495919784",
+                    "nikeSize": "12.5",
+                    "sizeConversionId": "2057952b-1a72-368e-b4b1-f67091ff1799",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 12.5 / W 14",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/f6720f35-27ba-5aac-b111-e5a6f3dfa20b?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "5a2a3f12-40c9-5c2a-ace6-63e39535c9f4",
+                    "snapshotId": "01f5f340-9e48-472a-8883-7221fca3f72f",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "e34a896e-3379-3792-929b-eaf99b7463b8",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198267",
+                    "gtin": "00194495919791",
+                    "nikeSize": "13",
+                    "sizeConversionId": "3622c403-7151-3db8-ac44-d0fbeee71197",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 13 / W 14.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/5a2a3f12-40c9-5c2a-ace6-63e39535c9f4?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "de7567ed-f8d3-5b6c-8525-b47d2b525ad8",
+                    "snapshotId": "12d72d05-1acc-4082-947a-7a97e7c6078e",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "a5f8a004-c2ab-350f-ba7d-ae94b7ac35fe",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198265",
+                    "gtin": "00194495919807",
+                    "nikeSize": "14",
+                    "sizeConversionId": "a19080d2-a9de-3523-a98d-0ffaddb287fd",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 14 / W 15.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/de7567ed-f8d3-5b6c-8525-b47d2b525ad8?country=US?language=en"
+                        }
+                    }
+                },
+                {
+                    "id": "c3e17d43-7c92-51eb-8e48-d1b788507825",
+                    "snapshotId": "61037faf-b9fe-4930-9365-b681bfd9b6f7",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "parentType": "merchProduct",
+                    "catalogSkuId": "99f44e70-72b4-3891-aeba-3f4678a24193",
+                    "modificationDate": "2020-05-01T17:52:31.838Z",
+                    "merchGroup": "US",
+                    "stockKeepingUnitId": "25198263",
+                    "gtin": "00194495919814",
+                    "nikeSize": "15",
+                    "sizeConversionId": "2e0b5ce6-1e53-377c-ad44-9f504f7d226a",
+                    "countrySpecifications": [
+                        {
+                            "country": "US",
+                            "localizedSize": "M 15 / W 16.5",
+                            "taxInfo": {
+                                "commodityCode": "531119.100",
+                                "vat": 0.0
+                            }
+                        }
+                    ],
+                    "resourceType": "merchSku",
+                    "links": {
+                        "self": {
+                            "ref": "/merch/skus/v2/c3e17d43-7c92-51eb-8e48-d1b788507825?country=US?language=en"
+                        }
+                    }
+                }
+            ],
+            "availableSkus": [
+                {
+                    "id": "36647c8b-3981-518a-aa33-9662e4451a69",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/36647c8b-3981-518a-aa33-9662e4451a69"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "36647c8b-3981-518a-aa33-9662e4451a69"
+                },
+                {
+                    "id": "0d920774-ff1b-5168-aa79-c404ab32dd8e",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/0d920774-ff1b-5168-aa79-c404ab32dd8e"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "0d920774-ff1b-5168-aa79-c404ab32dd8e"
+                },
+                {
+                    "id": "139d8fba-f71a-5239-a66b-295007914797",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/139d8fba-f71a-5239-a66b-295007914797"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "139d8fba-f71a-5239-a66b-295007914797"
+                },
+                {
+                    "id": "f0e1f381-008a-58bb-b271-e84b9e2c3d10",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/f0e1f381-008a-58bb-b271-e84b9e2c3d10"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "f0e1f381-008a-58bb-b271-e84b9e2c3d10"
+                },
+                {
+                    "id": "aa78b083-1b6a-59d1-9762-e25af0b44669",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/aa78b083-1b6a-59d1-9762-e25af0b44669"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "aa78b083-1b6a-59d1-9762-e25af0b44669"
+                },
+                {
+                    "id": "f6d7d69a-1b18-5eb9-b906-e0e18dd15cd7",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/f6d7d69a-1b18-5eb9-b906-e0e18dd15cd7"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "f6d7d69a-1b18-5eb9-b906-e0e18dd15cd7"
+                },
+                {
+                    "id": "bd06649a-5fa0-5b6f-93c7-f48821321e06",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/bd06649a-5fa0-5b6f-93c7-f48821321e06"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "bd06649a-5fa0-5b6f-93c7-f48821321e06"
+                },
+                {
+                    "id": "e305747a-fc8a-595e-b86d-ed13865e1119",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/e305747a-fc8a-595e-b86d-ed13865e1119"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "e305747a-fc8a-595e-b86d-ed13865e1119"
+                },
+                {
+                    "id": "ce47c5bc-446c-56c8-9d36-5476904f34c2",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/ce47c5bc-446c-56c8-9d36-5476904f34c2"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "ce47c5bc-446c-56c8-9d36-5476904f34c2"
+                },
+                {
+                    "id": "0acf2306-d2a1-5220-9107-ac0b5ecfce4f",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/0acf2306-d2a1-5220-9107-ac0b5ecfce4f"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "0acf2306-d2a1-5220-9107-ac0b5ecfce4f"
+                },
+                {
+                    "id": "fb096256-39a1-5f6f-83a3-2970a2018b31",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/fb096256-39a1-5f6f-83a3-2970a2018b31"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "fb096256-39a1-5f6f-83a3-2970a2018b31"
+                },
+                {
+                    "id": "1d30a357-1217-57d6-b7df-675a466f0f27",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/1d30a357-1217-57d6-b7df-675a466f0f27"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "1d30a357-1217-57d6-b7df-675a466f0f27"
+                },
+                {
+                    "id": "07f6480d-bc89-5762-990f-8d35932b4685",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/07f6480d-bc89-5762-990f-8d35932b4685"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "07f6480d-bc89-5762-990f-8d35932b4685"
+                },
+                {
+                    "id": "f6720f35-27ba-5aac-b111-e5a6f3dfa20b",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/f6720f35-27ba-5aac-b111-e5a6f3dfa20b"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "f6720f35-27ba-5aac-b111-e5a6f3dfa20b"
+                },
+                {
+                    "id": "5a2a3f12-40c9-5c2a-ace6-63e39535c9f4",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/5a2a3f12-40c9-5c2a-ace6-63e39535c9f4"
+                        }
+                    },
+                    "available": true,
+                    "level": "HIGH",
+                    "skuId": "5a2a3f12-40c9-5c2a-ace6-63e39535c9f4"
+                },
+                {
+                    "id": "de7567ed-f8d3-5b6c-8525-b47d2b525ad8",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/de7567ed-f8d3-5b6c-8525-b47d2b525ad8"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "de7567ed-f8d3-5b6c-8525-b47d2b525ad8"
+                },
+                {
+                    "id": "c3e17d43-7c92-51eb-8e48-d1b788507825",
+                    "productId": "9fa93a07-2aac-5a3f-bcf3-0304ecfb14f8",
+                    "resourceType": "availableSkus",
+                    "links": {
+                        "self": {
+                            "ref": "/deliver/available_skus/v1/c3e17d43-7c92-51eb-8e48-d1b788507825"
+                        }
+                    },
+                    "available": false,
+                    "level": "OOS",
+                    "skuId": "c3e17d43-7c92-51eb-8e48-d1b788507825"
+                }
+            ],
+            "socialInterest": {
+                "id": "f96680c5-6f21-3349-994a-ad8c3a7e7d88"
+            }
+        }
+    ]
+}
